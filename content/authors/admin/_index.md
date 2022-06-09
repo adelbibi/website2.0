@@ -16,7 +16,7 @@ organizations:
   url: "https://www.kellogg.ox.ac.uk/our-people/adel-bibi/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, computer vision, and optimization.
 
 # Interests to show in About widget
 interests:

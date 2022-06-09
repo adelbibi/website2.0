@@ -25,32 +25,27 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: adel.bibi@eng.ox.ac.uk
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 20.16, Department of Engineering Science, University of Oxford, Parks Road
+    city: Oxford
+    postcode: OX1 3PJ
+    country: United Kingdom
+    country_code: UK
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    latitude: '51.76027734553316'
+    longitude: '-1.259918449861943'
+  # contact_links:
+  #   - icon_pack: skype
+  #     link: 'https://zoom.com'
+  #   - icon: twitter
+  #     icon_pack: fab
+  #     name: DM Me
+  #     link: 'https://twitter.com/Twitter'
+  #   - icon: video
+  #     icon_pack: fas
+  #     name: Zoom Me
+  #     link: 'https://zoom.com'
 
 design:
   columns: '2'
