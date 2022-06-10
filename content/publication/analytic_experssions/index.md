@@ -6,7 +6,7 @@ title: "Analytic Expressions for Probabilistic Moments of PL-DNN with Gaussian I
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Modar Alfadl
+- Modar Alfadly
 - Bernard Ghanem
 
 # Author notes (optional)
