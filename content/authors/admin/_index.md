@@ -85,4 +85,4 @@ I am a senior research fellow in machine learning and computer vision at the [De
 Currently, I am interested in large scale offline and online robust continual learning. Robustness, in both aspects empirical and provably certifiable, here refers to deep models under $\ell_p$ bouded additive and geoemtric attacks. Moreover, continual learning refers to the learning from a stream of data in stringent memory and computational settings.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
-{{< icon name="download" pack="fas" >}} Download my [resume](https://drive.google.com/file/d/1q4qruNUpKdgDYGN8xBj2qc9pI01Gm49F/view).
+{{< icon name="download" pack="fas" >}} Download my [resume](https://drive.google.com/file/d/1q4qruNUpKdgDYGN8xBj2qc9pI01Gm49F/view)
