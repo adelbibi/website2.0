@@ -1,28 +1,27 @@
 ---
-title: "ClusTR: Clustering Training for Robustness"
+title: "A Stochastic Derivative-Free Optimization Method with Importance Sampling: Theory and Learning to Control"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Motasem Alfarra
-- Juan C. Pérez
 - admin
-- Ali Thabet
-- Pablo Arbeláez
+- El Houcine Bergou
+- Ozan Sener
 - Bernard Ghanem
+- Peter Richtarik
 
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
 - ""
 - ""
 - ""
 - ""
 
-date: "2021-10-15"
+
+date: "2020-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +34,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: British Machine Vision Conference (BMVC21)
-publication_short: In BMVC21
+publication: Association for the Advancement of Artificial Intelligence (AAAI20)
+publication_short: Oral in *AAAI20*
 
-abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection; from semantics to robustness. To do so, we provide a robustness certificate for distance-based classification models (clustering-based classifiers). Moreover, we show that this certificate is tight, and we leverage it to propose ClusTR (Clustering Training for Robustness), a clustering-based and adversary-free training framework to learn robust models. Interestingly, \textit{ClusTR} outperforms adversarially-trained networks by up to 4% under strong PGD attacks.
+abstract: ​​​​​​We consider the problem of unconstrained minimization of a smooth objective function in a setting where only function evaluations are possible. While importance sampling is one of the most popular techniques used by machine learning practitioners to accelerate the convergence of their models when applicable, there is not much existing theory for this acceleration in the derivative-free setting. In this paper, we propose the first derivative free optimization method with importance sampling and derive new improved complexity results on non-convex, convex and strongly convex functions. We conduct extensive experiments on various synthetic and real LIBSVM datasets confirming our theoretical results. We further test our method on a collection of continuous control tasks on MuJoCo environments with varying difficulty. Experiments suggest that our algorithm is practical for high dimensional continuous control problems where importance sampling results in a significant sample complexity improvement.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,12 +52,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2006.07682'
-url_code: 'https://github.com/clustr-official-account/ClusTR-Clustering-Training-For-Robustness'
+url_pdf: 'https://arxiv.org/abs/1902.01272'
+url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/15kuXAGMeO-Zi7npdyo2eAbh7npnJWod5/view?usp=sharing'
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1IMLG7AbzMXTUJKPAM0QqmIq_RZLhQW0z/view?usp=sharing'
 url_source: ''
 url_video: ''
 

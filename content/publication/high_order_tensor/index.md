@@ -1,28 +1,19 @@
 ---
-title: "ClusTR: Clustering Training for Robustness"
+title: "High Order Tensor Formulation for Convolutional Sparse Coding"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Motasem Alfarra
-- Juan C. Pérez
 - admin
-- Ali Thabet
-- Pablo Arbeláez
 - Bernard Ghanem
-
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- ""
-- ""
 - ""
 - ""
 
-date: "2021-10-15"
+date: "2017-10-22"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +26,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: British Machine Vision Conference (BMVC21)
-publication_short: In BMVC21
+publication: International Conference on Computer Vision 2017 (ICCV17), IEEE
+publication_short: In *ICCV17*
 
-abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection; from semantics to robustness. To do so, we provide a robustness certificate for distance-based classification models (clustering-based classifiers). Moreover, we show that this certificate is tight, and we leverage it to propose ClusTR (Clustering Training for Robustness), a clustering-based and adversary-free training framework to learn robust models. Interestingly, \textit{ClusTR} outperforms adversarially-trained networks by up to 4% under strong PGD attacks.
+abstract: ​​​Convolutional sparse coding (CSC) has gained attention for its successful role as a reconstruction and a classification tool in the computer vision and machine learning community. Current CSC methods can only reconstruct singlefeature 2D images independently. However, learning multidimensional dictionaries and sparse codes for the reconstruction of multi-dimensional data is very important, as it examines correlations among all the data jointly. This provides more capacity for the learned dictionaries to better reconstruct data. In this paper, we propose a generic and novel formulation for the CSC problem that can handle an arbitrary order tensor of data. Backed with experimental results, our proposed formulation can not only tackle applications that are not possible with standard CSC solvers, including colored video reconstruction (5D--tensors), but it also performs favorably in reconstruction with much fewer parameters as compared to naive extensions of standard CSC to multiple features/channels.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,10 +44,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2006.07682'
-url_code: 'https://github.com/clustr-official-account/ClusTR-Clustering-Training-For-Robustness'
+url_pdf: 'https://drive.google.com/file/d/1GPJOIQ374gfhZN6KCYIVsRjsDOe37jc3/view?usp=sharing'
+url_code: 'https://github.com/adelbibi/Tensor_CSC'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1t1LkUZliIK-zOM_YT-yS4UNHloEqQxgf/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -91,6 +82,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary material can be found [here](https://drive.google.com/file/d/17tGxceooVTT0JFkBsQjsh3h529U7yI1v/view?usp=sharing). -->
+Supplementary material can be found [here](https://drive.google.com/file/d/1-nZIm3uKBPpftL9WVvABENzcSOatYbMD/view?usp=sharing).

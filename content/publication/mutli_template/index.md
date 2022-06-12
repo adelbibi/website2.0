@@ -1,28 +1,19 @@
 ---
-title: "ClusTR: Clustering Training for Robustness"
+title: "Multi-Template Scale-Adaptive Kernelized Correlation Filters"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Motasem Alfarra
-- Juan C. Pérez
 - admin
-- Ali Thabet
-- Pablo Arbeláez
 - Bernard Ghanem
-
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- ""
-- ""
 - ""
 - ""
 
-date: "2021-10-15"
+date: "2016-05-26"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +26,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: British Machine Vision Conference (BMVC21)
-publication_short: In BMVC21
+publication: International Conference on Computer Vision Workshop (ICCVW15), IEEE
+publication_short: In *ICCVW15* (VOT15)
 
-abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection; from semantics to robustness. To do so, we provide a robustness certificate for distance-based classification models (clustering-based classifiers). Moreover, we show that this certificate is tight, and we leverage it to propose ClusTR (Clustering Training for Robustness), a clustering-based and adversary-free training framework to learn robust models. Interestingly, \textit{ClusTR} outperforms adversarially-trained networks by up to 4% under strong PGD attacks.
+abstract: ​​​This paper identifies the major drawbacks of a very computationally efficient and state-of- the-art-tracker known as the Kernelized Correlation Filter (KCF) tracker. These drawbacks include an assumed fixed scale of the target in every frame, as well as, a heuristic update strategy of the filter taps to incorporate historical tracking information (i.e. simple linear combination of taps from the previous frame). In our approach, we update the scale of the tracker by maximizing over the posterior distribution of a grid of scales. As for the filter update, we prove and show that it is possible to use all previous training examples to update the filter taps very efficiently using fixed-point optimization. We validate the efficacy of our approach on two tracking datasets, VOT2014 and VOT2015.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,10 +44,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2006.07682'
-url_code: 'https://github.com/clustr-official-account/ClusTR-Clustering-Training-For-Robustness'
+url_pdf: 'https://drive.google.com/file/d/1VlxLz9Q6me8JSE6gQZz5JPdFpvpPXo4D/view?usp=sharing'
+url_code: '"https://github.com/adelbibi/Multi-Template-Scale-Adaptive-Kernelized-Correlation-Filters'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1CCaioxVH8fA_oDXx6EHRAMS7Ac6tK-Qb/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -91,6 +82,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary material can be found [here](https://drive.google.com/file/d/17tGxceooVTT0JFkBsQjsh3h529U7yI1v/view?usp=sharing). -->
+Supplementary material can be found [here](https://drive.google.com/file/d/1AL0xj9G4yrp-p7AoGva9iCGyNypc8G5x/view?usp=sharing).

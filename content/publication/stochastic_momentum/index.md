@@ -1,28 +1,26 @@
 ---
-title: "ClusTR: Clustering Training for Robustness"
+title: "A Stochastic Derivative Free Optimization Method with Momentum"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Motasem Alfarra
-- Juan C. Pérez
+- Eduard Gorbunov
 - admin
-- Ali Thabet
-- Pablo Arbeláez
-- Bernard Ghanem
-
+- Ozan Sener
+- El Houcine Bergou
+- Peter Richtarik
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
 - ""
 - ""
 - ""
 - ""
 
-date: "2021-10-15"
+
+date: "2020-01-02"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +33,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: British Machine Vision Conference (BMVC21)
-publication_short: In BMVC21
+publication: International Conference on Learning Representation (ICLR20)​
+publication_short: In *ICLR20*
 
-abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection; from semantics to robustness. To do so, we provide a robustness certificate for distance-based classification models (clustering-based classifiers). Moreover, we show that this certificate is tight, and we leverage it to propose ClusTR (Clustering Training for Robustness), a clustering-based and adversary-free training framework to learn robust models. Interestingly, \textit{ClusTR} outperforms adversarially-trained networks by up to 4% under strong PGD attacks.
+abstract: ​​​​We consider the problem of unconstrained minimization of a smooth objective function in ℝd in setting where only function evaluations are possible. We propose and analyze stochastic zeroth-order method with heavy ball momentum. In particular, we propose, SMTP, a momentum version of the stochastic three-point method (STP). We show new complexity results for non-convex, convex and strongly convex functions. We test our method on a collection of learning to continuous control tasks on several MuJoCo environments with varying difficulty and compare against STP, other state-of-the-art derivative-free optimization algorithms and against policy gradient methods. SMTP significantly outperforms STP and all other methods that we considered in our numerical experiments. Our second contribution is SMTP with importance sampling which we call SMTP_IS. We provide convergence analysis of this method for non-convex, convex and strongly convex objectives.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,8 +51,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2006.07682'
-url_code: 'https://github.com/clustr-official-account/ClusTR-Clustering-Training-For-Robustness'
+url_pdf: 'https://arxiv.org/abs/1905.13278'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

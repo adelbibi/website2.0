@@ -1,28 +1,26 @@
 ---
-title: "ClusTR: Clustering Training for Robustness"
+title: "TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Motasem Alfarra
-- Juan C. Pérez
+- Matthias Mueller
 - admin
-- Ali Thabet
-- Pablo Arbeláez
+- Silvio Giancola
+- Salman Alsubaihi
 - Bernard Ghanem
-
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
-- ""
-- ""
+- "Equal Contribution"
+- "Equal Contribution"
 - ""
 - ""
 
-date: "2021-10-15"
+
+date: "2018-07-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +33,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: British Machine Vision Conference (BMVC21)
-publication_short: In BMVC21
+publication: European Conference on Computer Vision (ECCV18)​
+publication_short: In *ECCV18*
 
-abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection; from semantics to robustness. To do so, we provide a robustness certificate for distance-based classification models (clustering-based classifiers). Moreover, we show that this certificate is tight, and we leverage it to propose ClusTR (Clustering Training for Robustness), a clustering-based and adversary-free training framework to learn robust models. Interestingly, \textit{ClusTR} outperforms adversarially-trained networks by up to 4% under strong PGD attacks.
+abstract: ​​​​Despite the numerous developments in object tracking, further development of current tracking algorithms is limited by small and mostly saturated datasets. As a matter of fact, data-hungry trackers based on deep-learning currently rely on object detection datasets due to the scarcity of dedicated large-scale tracking datasets. In this work, we present TrackingNet, the first large-scale dataset and benchmark for object tracking in the wild. We provide more than 30K videos with more than 14 million dense bounding box annotations. Our dataset covers a wide selection of object classes in broad and diverse context. By releasing such a large-scale dataset, we expect deep trackers to further improve and generalize. In addition, we introduce a new benchmark composed of 500 novel videos, modeled with a distribution similar to our training dataset. By sequestering the annotation of the test set and providing an online evaluation server, we provide a fair benchmark for future development of object trackers. Deep trackers fine-tuned on a fraction of our dataset improve their performance by up to 1.6% on OTB100 and up to 1.7% on TrackingNet Test. We provide an extensive benchmark on TrackingNet by evaluating more than 20 trackers. Our results suggest that object tracking in the wild is far from being solved.
+
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,14 +52,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2006.07682'
-url_code: 'https://github.com/clustr-official-account/ClusTR-Clustering-Training-For-Robustness'
+url_pdf: 'https://arxiv.org/abs/1803.10794'
+url_code: 'https://github.com/SilvioGiancola/TrackingNet-devkit'
 url_dataset: ''
-url_poster: ''
-url_project: ''
+url_poster: 'https://drive.google.com/file/d/19VmqnayQdjXWOHTsd5_rlbvmPNOQM0MV/view?usp=sharing'
+url_project: 'https://tracking-net.org/'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=5n09hq3eweM'
 
 # # Featured image
 # # To use, add an image named `featured.jpg/png` to your page's folder. 

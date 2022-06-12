@@ -1,28 +1,21 @@
 ---
-title: "ClusTR: Clustering Training for Robustness"
+title: "3D Part-Based Sparse Tracker with Automatic Synchronization and Registration"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Motasem Alfarra
-- Juan C. Pérez
 - admin
-- Ali Thabet
-- Pablo Arbeláez
+- Tianzhu Zhang
 - Bernard Ghanem
-
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - ""
-- ""
-- ""
-- ""
 
-date: "2021-10-15"
+date: "2016-06-26"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +28,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: British Machine Vision Conference (BMVC21)
-publication_short: In BMVC21
+publication: Conference on Computer Vision and Pattern Recognition (CVPR16), IEEE
+publication_short: In *CVPR16*
 
-abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection; from semantics to robustness. To do so, we provide a robustness certificate for distance-based classification models (clustering-based classifiers). Moreover, we show that this certificate is tight, and we leverage it to propose ClusTR (Clustering Training for Robustness), a clustering-based and adversary-free training framework to learn robust models. Interestingly, \textit{ClusTR} outperforms adversarially-trained networks by up to 4% under strong PGD attacks.
+abstract: ​In this paper, we present a part-based sparse tracker in a particle filter framework where both the motion and appearance model are formulated in 3D. The motion model is adaptive and directed according to a simple yet powerful occlusion handling paradigm, which is intrinsically fused in the motion model. Also, since 3D trackers are sensitive to synchronization and registration noise in the RGB and depth streams, we propose automated methods to solve these two issues. Extensive experiments are conducted on a popular RGBD tracking benchmark, which demonstrate that our tracker can achieve superior results, outperforming many other recent and state-of-the-art RGBD trackers.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,10 +46,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2006.07682'
-url_code: 'https://github.com/clustr-official-account/ClusTR-Clustering-Training-For-Robustness'
+url_pdf: 'https://drive.google.com/file/d/1rZ05d7BiHw_U6meg9U5_d7iw2RyaVOgJ/view?usp=sharing'
+url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1IckGy9iA5nQtCc_PKLcnSMbDl2cxyfDi/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -91,6 +84,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary material can be found [here](https://drive.google.com/file/d/17tGxceooVTT0JFkBsQjsh3h529U7yI1v/view?usp=sharing). -->
+Supplementary material can be found [here](https://www.youtube.com/watch?v=5YZEZseOYG4).

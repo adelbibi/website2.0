@@ -1,28 +1,24 @@
 ---
-title: "ClusTR: Clustering Training for Robustness"
+title: "Deep Layers as Stochastic Solvers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Motasem Alfarra
-- Juan C. Pérez
 - admin
-- Ali Thabet
-- Pablo Arbeláez
 - Bernard Ghanem
-
+- Vladlen Koltun
+- Rene Ranftl
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 - ""
 - ""
 - ""
 - ""
 
-date: "2021-10-15"
+
+date: "2019-05-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +31,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: British Machine Vision Conference (BMVC21)
-publication_short: In BMVC21
+publication: International Conference on Learning Representation (ICLR19)​
+publication_short: In *ICLR19*
 
-abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection; from semantics to robustness. To do so, we provide a robustness certificate for distance-based classification models (clustering-based classifiers). Moreover, we show that this certificate is tight, and we leverage it to propose ClusTR (Clustering Training for Robustness), a clustering-based and adversary-free training framework to learn robust models. Interestingly, \textit{ClusTR} outperforms adversarially-trained networks by up to 4% under strong PGD attacks.
+abstract: ​​​​We provide a novel perspective on the forward pass through a block of layers in a deep network. In particular, we show that a forward pass through a standard dropout layer followed by a linear layer and a non-linear activation is equivalent to optimizing a convex optimization objective with a single iteration of a $\tau$-nice Proximal Stochastic Gradient method. We further show that replacing standard Bernoulli dropout with additive dropout is equivalent to optimizing the same convex objective with a variance-reduced proximal method. By expressing both fully-connected and convolutional layers as special cases of a high-order tensor product, we unify the underlying convex optimization problem in the tensor setting and derive a formula for the Lipschitz constant $L$ used to determine the optimal step size of the above proximal methods. We conduct experiments with standard convolutional networks applied to the CIFAR-10 and CIFAR-100 datasets, and show that replacing a block of layers with multiple iterations of the corresponding solver, with step size set via $L$, consistently improves classification accuracy.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,10 +49,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2006.07682'
-url_code: 'https://github.com/clustr-official-account/ClusTR-Clustering-Training-For-Robustness'
+url_pdf: 'https://openreview.net/forum?id=ryxxCiRqYX'
+url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/12ccARxNLd70gZ3U4-yCuAJZfUsC-K-DZ/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''

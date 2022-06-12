@@ -1,28 +1,22 @@
 ---
-title: "ClusTR: Clustering Training for Robustness"
+title: "Local Color Mapping Combined with Color Transfer for Underwater Image Enhancement"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Motasem Alfarra
-- Juan C. Pérez
+- Rafał Protasiuk
 - admin
-- Ali Thabet
-- Pablo Arbeláez
 - Bernard Ghanem
-
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- ""
 - ""
 - ""
 - ""
 
-date: "2021-10-15"
+
+date: "2019-01-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +29,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: British Machine Vision Conference (BMVC21)
-publication_short: In BMVC21
+publication: Winter Conference on Applications of Computer Vision (WACV19)​
+publication_short: In *WACV19*
 
-abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection; from semantics to robustness. To do so, we provide a robustness certificate for distance-based classification models (clustering-based classifiers). Moreover, we show that this certificate is tight, and we leverage it to propose ClusTR (Clustering Training for Robustness), a clustering-based and adversary-free training framework to learn robust models. Interestingly, \textit{ClusTR} outperforms adversarially-trained networks by up to 4% under strong PGD attacks.
+abstract: ​​​​​​Color correction and color transfer methods have gained a lot of attention in the past few years to circumvent color degradation that may occur due to various sources. In this paper, we propose a novel simple yet powerful strategy to enhance profoundly color distorted underwater images. The proposed approach combines both local and global information through a simple yet powerful affine transform model. Local and global information are carried through local color mapping and color covariance mapping between an input and some reference source, respectively. Several experiments on degraded underwater images demonstrate that the proposed method performs favourably to all other methods including ones that are tailored to correcting underwater images by explicit noise modelling.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,14 +47,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2006.07682'
-url_code: 'https://github.com/clustr-official-account/ClusTR-Clustering-Training-For-Robustness'
+url_pdf: 'https://drive.google.com/file/d/1e71RaN17gGLB76c9YI7vFPvAZw38kR_b/view?usp=sharing'
+url_code: 'https://github.com/rprotasiuk/underwater_enhancement'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1uT6vC8615NfAL3EvGw-aUWVccld3df6y/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=r2Z87qCp7og'
 
 # # Featured image
 # # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -91,6 +85,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary material can be found [here](https://drive.google.com/file/d/17tGxceooVTT0JFkBsQjsh3h529U7yI1v/view?usp=sharing). -->
+Supplementary material can be found [here](https://drive.google.com/file/d/1FjJ9YoDcndYpcY97n3oi-N2zohWBRip8/view?usp=sharing).
