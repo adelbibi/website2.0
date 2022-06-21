@@ -13,7 +13,7 @@ location: Zoom
 #   country: 
 
 summary: 
-abstract: I give a talk on our recent advances in radomized smoothing towards ceritfying geometric input deformations at scale.
+abstract: I gave a talk on our recent advances in radomized smoothing towards ceritfying geometric input deformations at scale.
 
 
 # Talk start and end times.
