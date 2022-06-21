@@ -1,7 +1,7 @@
 ---
 title: Trust Worthy AI -- Verified
 
-event: USD Department of Defense Artificial Intelligence Symposium
+event: US Department of Defense Artificial Intelligence Symposium
 event_url: https://www.ai.mil/ai2021.html
 
 location: Zoom
