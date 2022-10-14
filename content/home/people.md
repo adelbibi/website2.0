@@ -5,7 +5,7 @@ widget: 'github.adelbibi.people'
 
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -23,49 +23,61 @@ title:
     <h1>Officially Co-supervised PhD Students</h1>
   </div>
   <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://eng.ox.ac.uk/media/7515/francisco-girbal-eiras.jpg?anchor=center&mode=crop&width=250&height=250&rnd=132778322260000000" alt="Avatar">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://eng.ox.ac.uk/media/7515/francisco-girbal-eiras.jpg?anchor=center&mode=crop&width=250&height=250&rnd=132778322260000000" alt="Avatar"> -->
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/francisco-girbal-eiras.jpeg" alt="Avatar">
     <div class="portrait-title">
-      <h2>Francisco Eiras</h2>
+      <!-- <h2>Francisco Eiras</h2> -->
+      <h2><a href="https://fgirbal.github.io/">Francisco Eiras</a></h2>
       <h3>PhD Student, University of Oxford</h3>
       <ul class="network-icon" aria-hidden="true">
-    <li>
+    <!-- <li>
       <a href="https://fgirbal.github.io/" target="_blank" rel="noopener">
         <i class="fas fa-home"></i>
       </a>
-    </li>
+    </li> -->
 </ul>
     </div>
   </div>
   <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://media-exp1.licdn.com/dms/image/C4D03AQE5XpLseetAPA/profile-displayphoto-shrink_400_400/0/1517239897911?e=1668643200&v=beta&t=B2t9tU-LxRy8xE6zDtlWVUdDooRTMFSd42k7qnVi51k" alt="Avatar">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://media-exp1.licdn.com/dms/image/C4D03AQE5XpLseetAPA/profile-displayphoto-shrink_400_400/0/1517239897911?e=1668643200&v=beta&t=B2t9tU-LxRy8xE6zDtlWVUdDooRTMFSd42k7qnVi51k" alt="Avatar"> -->
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/csaba-botos.jpeg" alt="Avatar">
     <div class="portrait-title">
-      <h2>Csaba Botos</h2>
+      <!-- <h2>Csaba Botos</h2> -->
+      <h2><a href="https://www.linkedin.com/in/botos-csaba/">Csaba Botos</a></h2>
       <h3>PhD Student, University of Oxford</h3>
       <ul class="network-icon" aria-hidden="true">
-    <li>
+    <!-- <li>
       <a href="https://www.linkedin.com/in/botos-csaba/" target="_blank" rel="noopener">
         <i class="fas fa-home"></i>
       </a>
-    </li>
+    </li> -->
 </ul>
     </div>
   </div>
   <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/cornelius-emde.jpeg" alt="Avatar">
     <div class="portrait-title">
-      <h2>Cornelius Emde</h2>
+      <!-- <h2>Cornelius Emde</h2> -->
+      <h2><a href="https://www.bdi.ox.ac.uk/Team/cornelius-emde">Cornelius Emde</a></h2>
       <h3>PhD Student, University of Oxford</h3>
       <ul class="network-icon" aria-hidden="true">
-    <li>
+    <!-- <li>
       <a href="https://www.bdi.ox.ac.uk/Team/cornelius-emde" target="_blank" rel="noopener">
         <i class="fas fa-home"></i>
       </a>
-    </li>
+    </li> -->
 </ul>
     </div>
   </div>
 
-<!-- ############ -->
+
+
+
+<!-- ############ --> 
+<!-- Un-officially Co-supervised PhD Students -->
+
+<!-- Ameya Prabhu -->
 
 <div class="container">
 <div class="row justify-content-center people-widget">
@@ -73,46 +85,160 @@ title:
     <h1>Un-officially Co-supervised PhD Students</h1>
   </div>
   <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://eng.ox.ac.uk/media/7515/francisco-girbal-eiras.jpg?anchor=center&mode=crop&width=250&height=250&rnd=132778322260000000" alt="Avatar">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://drimpossible.github.io/" alt="Avatar">
+    <div class="portrait-title"> -->
+<img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/ameya-prabhu.jpeg" alt="Avatar">
     <div class="portrait-title">
-      <h2>Francisco Eiras</h2>
+      <!-- <h2>Ameya Prabhu</h2> -->
+      <h2><a href="https://drimpossible.github.io/">Ameya Prabhu</a></h2>
       <h3>PhD Student, University of Oxford</h3>
       <ul class="network-icon" aria-hidden="true">
-    <li>
-      <a href="https://fgirbal.github.io/" target="_blank" rel="noopener">
+    <!-- <li>
+      <a href="https://drimpossible.github.io/" target="_blank" rel="noopener">
         <i class="fas fa-home"></i>
       </a>
-    </li>
+    </li> -->
 </ul>
     </div>
+  </div>
+  <!-- Alekasdar Peetrov -->
+  <div class="col-12 col-sm-auto people-person">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://media-exp1.licdn.com/dms/image/C4D03AQE5XpLseetAPA/profile-displayphoto-shrink_400_400/0/1517239897911?e=1668643200&v=beta&t=B2t9tU-LxRy8xE6zDtlWVUdDooRTMFSd42k7qnVi51k" alt="Avatar"> -->
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/aleksandar-petrov.jpeg" alt="Avatar">
+    <div class="portrait-title">
+      <h2><a href="https://p-petrov.com/">Aleksandar Petrov</a></h2>
+      <h3>PhD Student, University of Oxford</h3>
+      <ul class="network-icon" aria-hidden="true">
+    <!-- <li>
+      <a href="https://p-petrov.com/" target="_blank" rel="noopener">
+        <i class="fas fa-home"></i>
+      </a>
+    </li> -->
+</ul>
+    </div>
+    <!-- Pau de Jorge -->
   </div>
   <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://media-exp1.licdn.com/dms/image/C4D03AQE5XpLseetAPA/profile-displayphoto-shrink_400_400/0/1517239897911?e=1668643200&v=beta&t=B2t9tU-LxRy8xE6zDtlWVUdDooRTMFSd42k7qnVi51k" alt="Avatar">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
+<img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/pau-de-jorge.jpeg" alt="Avatar">
     <div class="portrait-title">
-      <h2>Csaba Botos</h2>
+    <div class="portrait-title">
+      <!-- <h2>Pau de Jorge</h2> -->
+      <h2><a href="https://www.linkedin.com/in/pau-de-jorge-aranda/?originalSubdomain=uk">Pau de Jorge</a></h2>
       <h3>PhD Student, University of Oxford</h3>
       <ul class="network-icon" aria-hidden="true">
-    <li>
-      <a href="https://www.linkedin.com/in/botos-csaba/" target="_blank" rel="noopener">
+    <!-- <li>
+      <a href="https://www.linkedin.com/in/pau-de-jorge-aranda/?originalSubdomain=uk" target="_blank" rel="noopener">
         <i class="fas fa-home"></i>
       </a>
-    </li>
+    </li> -->
 </ul>
     </div>
+  </div>
+
+  <!-- Pau de Jorge -->
   </div>
   <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
+<img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/tim-franzmeyer.jpeg" alt="Avatar">
     <div class="portrait-title">
-      <h2>Cornelius Emde</h2>
+    <div class="portrait-title">
+      <!-- <h2>Tim Franzmeyer</h2> -->
+      <h2><a href="https://www.robots.ox.ac.uk/~frtim/">Tim Franzmeyer</a></h2>
       <h3>PhD Student, University of Oxford</h3>
       <ul class="network-icon" aria-hidden="true">
-    <li>
-      <a href="https://www.bdi.ox.ac.uk/Team/cornelius-emde" target="_blank" rel="noopener">
+    <!-- <li>
+      <a href="https://www.robots.ox.ac.uk/~frtim/" target="_blank" rel="noopener">
         <i class="fas fa-home"></i>
       </a>
-    </li>
+    </li> -->
 </ul>
     </div>
   </div>
+<!-- Chen Lin -->
+  </div>
+  <div class="col-12 col-sm-auto people-person">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
+<img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/will-lin.jpeg" alt="Avatar">
+    <div class="portrait-title">
+    <div class="portrait-title">
+      <!-- <h2>Chen Lin</h2> -->
+      <h2><a href="https://scholar.google.com/citations?user=rObgGWIAAAAJ&hl=en">Chen Lin</a></h2>
+      <h3>PhD Student, University of Oxford</h3>
+      <ul class="network-icon" aria-hidden="true">
+    <!-- <li>
+      <a href="https://scholar.google.com/citations?user=rObgGWIAAAAJ&hl=en" target="_blank" rel="noopener">
+        <i class="fas fa-home"></i>
+      </a>
+    </li> -->
+</ul>
+    </div>
+  </div>
+
+  <!-- Motasem Alfarra -->
+  </div>
+  <div class="col-12 col-sm-auto people-person">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
+<img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/motasem-alfarra.jpeg" alt="Avatar">
+    <div class="portrait-title">
+    <div class="portrait-title">
+      <!-- <h2>Motasem Alfarra</h2> -->
+      <h2><a href="https://motasemalfarra.netlify.app/">Motasem Alfarra</a></h2>
+      <h3>PhD Student, KAUST</h3>
+      <ul class="network-icon" aria-hidden="true">
+    <!-- <li>
+      <a href="https://motasemalfarra.netlify.app/" target="_blank" rel="noopener">
+        <i class="fas fa-home"></i>
+      </a>
+    </li> -->
+</ul>
+    </div>
+  </div>
+
+ <!-- Hasan Abed Al Kader Hammoud -->
+  </div>
+  <div class="col-12 col-sm-auto people-person">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
+<img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/hasan-abed-alkader.jpeg" alt="Avatar">
+    <div class="portrait-title">
+    <div class="portrait-title">
+      <!-- <h2>Hasan Abed Al Kader Hammoud</h2> -->
+      <h2><a href="https://scholar.google.com/citations?user=Plf1JSIAAAAJ&hl=en">Hasan Abed Al Kader Hammoud</a></h2>
+      <h3>PhD Student, KAUST</h3>
+      <ul class="network-icon" aria-hidden="true">
+    <!-- <li>
+      <a href="https://scholar.google.com/citations?user=Plf1JSIAAAAJ&hl=en" target="_blank" rel="noopener">
+        <i class="fas fa-home"></i>
+      </a>
+    </li> -->
+</ul>
+    </div>
+  </div>
+
+  <!-- Yasir Ghunaim -->
+  </div>
+  <div class="col-12 col-sm-auto people-person">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
+<img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/yasir-ghunaim.jpeg" alt="Avatar">
+    <div class="portrait-title">
+    <div class="portrait-title">
+      <!-- <h2>Yasir Ghunaim</h2> -->
+      <h2><a href="https://www.linkedin.com/in/yasir-ghunaim/?originalSubdomain=sa">Yasir Ghunaim</a></h2>
+      <h3>PhD Student, KAUST</h3>
+      <ul class="network-icon" aria-hidden="true">
+    <!-- <li>
+      <a href="https://www.linkedin.com/in/yasir-ghunaim/?originalSubdomain=sa" target="_blank" rel="noopener">
+        <i class="fas fa-home"></i>
+      </a>
+    </li> -->
+</ul>
+    </div>
+  </div>
+
+
+
+
+
+
 
 
