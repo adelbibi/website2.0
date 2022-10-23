@@ -86,3 +86,5 @@ Currently, I am interested in large scale offline and online robust continual le
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 {{< icon name="download" pack="fas" >}} Download my [resume](https://drive.google.com/file/d/1q4qruNUpKdgDYGN8xBj2qc9pI01Gm49F/view)
+
+<span style="color:red"> [**Hiring!**] </span> <u> We are looking for strong postdoc candidates in the areas of robustness and continual learning. Contact me if you are interested.</u>
