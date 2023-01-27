@@ -10,6 +10,9 @@ weight: 20
 
 title: News
 ---
+* [**January 23th, 2023**]: I will serve as an **Area Chair** for the ICLR 2023 Workshop on Trustworthy ML.
+* [**December 9th, 2022**]: I will serve as a **Senior Program Committee (Area Chair/Meta Reviewer)** for IJCAI 2023.
+* [**November 3rd, 2022**]: Joined the [ELLIS Society](https://ellis.eu/) as a member.
 * [**October 11th, 2022**]: One paper accepted to WACV23.
 * [**October 10th, 2022**]: Recieved an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced).
 * [**September 14th, 2022**]: Our paper [N-FGSM](https://arxiv.org/abs/2202.01181) accepted to NeurIPS22.
