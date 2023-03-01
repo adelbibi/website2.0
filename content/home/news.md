@@ -18,8 +18,8 @@ title: News
 * [**October 11th, 2022**]: One paper accepted to WACV23.
 * [**October 10th, 2022**]: Recieved an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced).
 * [**September 14th, 2022**]: Our paper [N-FGSM](https://arxiv.org/abs/2202.01181) accepted to NeurIPS22.
-* [**August 28th, 2022**]: Our paper [ANCER](https://pubmed.ncbi.nlm.nih.gov/36001517/) was accepted in Transactions on Machine Learning Research (TMLR).
-* [**August 15th, 2022**]: Our paper on [Tropical Geometry](https://openreview.net/forum?id=7j0GI6tPYi) was accepted to appear in the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+* [**August 28th, 2022**]: Our paper [ANCER](https://openreview.net/forum?id=7j0GI6tPYi) was accepted in Transactions on Machine Learning Research (TMLR).
+* [**August 15th, 2022**]: Our paper on [Tropical Geometry](https://pubmed.ncbi.nlm.nih.gov/36001517/) was accepted to appear in the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 * [**July 11th, 2022**]: I will serve as a **Senior Program Committee (Area Chair/Meta Reviewer)** for AAAI23.
 * [**May 26th, 2022**]: **Three papers** accepted to the Adversarial Machine Learning Frontiers ICML2022 workshop! Papers will be coming on arXiv soon.
 * [**May 16th, 2022**]: Our paper titled [Data Dependent Randomzied Smoothing](https://arxiv.org/abs/2012.04351)  is accepted to UAI22.
