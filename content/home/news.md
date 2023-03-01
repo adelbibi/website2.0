@@ -10,6 +10,8 @@ weight: 20
 
 title: News
 ---
+* [**February 28th, 2023**]: I will serve as an **Area Chair** for the NeurIPS 2023.
+* [**February 27th, 2023**]: **Two papers** accepted to CVPR 2023.
 * [**January 23th, 2023**]: I will serve as an **Area Chair** for the ICLR 2023 Workshop on Trustworthy ML.
 * [**December 9th, 2022**]: I will serve as a **Senior Program Committee (Area Chair/Meta Reviewer)** for IJCAI 2023.
 * [**November 3rd, 2022**]: Joined the [ELLIS Society](https://ellis.eu/) as a member.
@@ -27,7 +29,7 @@ title: News
 * [**Nov 18th, 2021**]: We were awarded KAUST's Competitive Research Grant with a total of > 1.05M$ (one million USD). This is a 3 years collaboration between KAUST and Oxford.
 * [**Oct 15th, 2021**]: [Rethinking Clustering for Robustness](https://arxiv.org/abs/2006.07682) is accepted in BMVC21. 
 * [**June 22nd, 2021**]: [Anti Adversary paper](https://arxiv.org/abs/2103.14347) is accepted in [Adversarial Machine Learning Workshop @ICML21](https://advml-workshop.github.io/icml2021**/).
-* [**June 13th, 2021**]: I have been elected as a Junior Research Fellow of [Kellogg College, University of Oxford](https://www.kellogg.ox.ac.uk/). Appointment starts in October 2021**.
+* [**June 13th, 2021**]: I have been elected as a Junior Research Fellow of [Kellogg College, University of Oxford](https://www.kellogg.ox.ac.uk/). Appointment starts in October 2021.
 * [**March 28th, 2021**]: [ETB robustness paper](https://arxiv.org/abs/1905.12418) is accepted in [RobustML Workshop @ICLR21](https://sites.google.com/connect.hku.hk/robustML-2021/home).
 * [**November 8th, 2020**]: New paper on robustness is on [arXiv](https://arxiv.org/abs/2103.14347).
 * [**November 8th, 2020**]: New paper on randomized smoothing is on [arXiv](https://arxiv.org/abs/2012.04351).
