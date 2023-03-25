@@ -10,8 +10,9 @@ weight: 20
 
 title: News
 ---
+* [**March 9th, 2023**]: Media coverage by [DOU](https://dou.ua/lenta/interviews/taras-rumezhak-about-oxford/?from=twitter&utm_source=twitter&utm_medium=social), a Ukrainian development community focused on technologies, frameworks, and code, for my work with [Taras Rumezhak](https://www.linkedin.com/in/trumezhak/).
 * [**February 28th, 2023**]: I will serve as an **Area Chair** for the NeurIPS 2023.
-* [**February 27th, 2023**]: **Two papers** accepted to CVPR 2023.
+* [**February 27th, 2023**]: **Two papers** accepted to CVPR 2023. One of the two papers is accepted as a **highlight** (2.5% of ~9K submissions).
 * [**January 23th, 2023**]: I will serve as an **Area Chair** for the ICLR 2023 Workshop on Trustworthy ML.
 * [**December 9th, 2022**]: I will serve as a **Senior Program Committee (Area Chair/Meta Reviewer)** for IJCAI 2023.
 * [**November 3rd, 2022**]: Joined the [ELLIS Society](https://ellis.eu/) as a member.
