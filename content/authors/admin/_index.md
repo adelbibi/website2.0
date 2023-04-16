@@ -6,7 +6,7 @@ title: Adel Bibi
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Fellow
+role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -80,11 +80,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a senior research fellow in machine learning and computer vision at the [Department of Engineering Science](https://eng.ox.ac.uk/people/adel-bibi/) of the [University of Oxford](https://www.ox.ac.uk/) with the [Torr Vision Group](https://torrvision.com/) led by [Philip Torr](https://www.robots.ox.ac.uk/~phst/). I am also a Junior Research Fellow (JRF) of [Kellogg College](https://www.kellogg.ox.ac.uk). Prior to that, I was a postdoctoral researcher at the same group for a year since October 2020. I received my MSc and PhD degrees from [King Abdullah University of Science & Technology (KAUST)](https://www.kaust.edu.sa/en) in 2016 and 2020, respectively, where I was part of the [Image and Video Understanding Lab (IVUL)](https://cemse.kaust.edu.sa/ivul) advised by [Bernard Ghanem](http://bernardghanem.com/). In 2018, I was a visiting PhD intern for 6 months at [Intel Labs](https://www.intel.co.uk/content/www/uk/en/research/overview.html) in Munich working with [Vladlen Koltun](http://vladlen.info/). I have worked on a variety of problems; problems that I personally find interesting and challenging. 
+Adel Bibi is a senior researcher in machine learning and computer vision at the [Department of Engineering Science](https://eng.ox.ac.uk/people/adel-bibi/) of the [University of Oxford](https://www.ox.ac.uk/) with [Philip H.S. Torr](https://www.robots.ox.ac.uk/~phst/). He is a Junior Research Fellow (JRF) of [Kellogg College](https://www.kellogg.ox.ac.uk) and a member of the [ELLIS](https://ellis.eu/) Society. Prior to that, Bibi was a postdoctoral research assistant and a senior research associate in the same department. He received his MSc and PhD degrees from [King Abdullah University of Science & Technology (KAUST)](https://www.kaust.edu.sa/en) in 2016 and 2020, respectively, working with [Bernard Ghanem](http://bernardghanem.com/). In 2018, Bibi was a visiting PhD intern for 6 months at [Intel Labs](https://www.intel.co.uk/content/www/uk/en/research/overview.html) in Munich working with [Vladlen Koltun](http://vladlen.info/). Bibi received an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced) in Fall 2021 and has contributed more than 30 papers published in top machine learning and computer vision conferences like CVPR, ICCV, ECCV, ICCV, ICLR, NeurIPS, TPAMI, AAAI, and UAI. Bibi has also served as an Area Chair for NeurIPS23, AAAI23, and IJCAI23. He has received outstanding reviewer awards in CVPR18, CVPR19, ICCV19, and ICLR22. 
+<!-- Adel works on a variety of machine learninproblems; problems that I personally find interesting and challenging.  -->
 
-Currently, I am interested in large scale offline and online robust continual learning. Robustness, in both aspects empirical and provably certifiable, here refers to deep models under $\ell_p$ bouded additive and geoemtric attacks. Moreover, continual learning refers to the learning from a stream of data in stringent memory and computational settings.
+Currently, Bibi is interested in large scale offline and online robust and private continual learning. Robustness, in both aspects empirical and provably certifiable, here refers to deep models under $\ell_p$ bouded additive and geoemtric attacks. Moreover, continual learning refers to the learning from a stream of data in stringent memory and computational settings.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 {{< icon name="download" pack="fas" >}} Download my [resume](https://drive.google.com/file/d/1q4qruNUpKdgDYGN8xBj2qc9pI01Gm49F/view)
 
-<span style="color:red"> [**Hiring!**] </span> <u> We are looking for strong postdoc candidates in the areas of robustness and continual learning. Contact me if you are interested.</u>
+<span style="color:red"> [**Hiring!**] </span> <u> We are always looking for strong postdoc candidates and prospective PhD students interested in the areas of robustness and continual learning. Contact me if you are interested.</u>

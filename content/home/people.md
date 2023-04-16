@@ -257,6 +257,26 @@ title:
 
 
 
-
+<!-- Kumail Alhamoud
+ -->
+</div>
+  <div class="col-12 col-sm-auto people-person">
+      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
+<img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/kumail-alhamoud.jpeg" alt="Avatar">
+    <div class="portrait-title">
+    <div class="portrait-title">
+      <!-- <h2>Yasir Ghunaim</h2> -->
+      <h2><a href="https://kumailalhamoud.netlify.app/">Kumail Alhamoud
+</a></h2>
+      <h3>PhD Student, MIT</h3>
+      <ul class="network-icon" aria-hidden="true">
+    <!-- <li>
+      <a href="https://www.linkedin.com/in/yasir-ghunaim/?originalSubdomain=sa" target="_blank" rel="noopener">
+        <i class="fas fa-home"></i>
+      </a>
+    </li> -->
+</ul>
+    </div>
+  </div>
 
 
