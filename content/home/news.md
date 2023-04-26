@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**April 24th, 2023**]: **One paper** acepted to ICML 2023
 * [**March 29th, 2023**]: **Four papers** acepted to [CLVision23](https://sites.google.com/view/clvision2023/overview?authuser=0) (CVPR Workshop)
 * [**March 9th, 2023**]: Media coverage by [DOU](https://dou.ua/lenta/interviews/taras-rumezhak-about-oxford/?from=twitter&utm_source=twitter&utm_medium=social), a Ukrainian development community focused on technologies, frameworks, and code, for my work with [Taras Rumezhak](https://www.linkedin.com/in/trumezhak/).
 * [**February 28th, 2023**]: I will serve as an **Area Chair** for the NeurIPS 2023.
