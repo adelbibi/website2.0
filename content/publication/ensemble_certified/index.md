@@ -92,4 +92,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 
-Supplementary material can be found [here](https://www.youtube.com/watch?v=5YZEZseOYG4).
+<!-- Supplementary material can be found [here](https://www.youtube.com/watch?v=5YZEZseOYG4). -->
