@@ -13,6 +13,7 @@ title: News
 * [**April 24th, 2023**]: **One paper** acepted to ICML 2023
 * [**March 29th, 2023**]: **Four papers** acepted to [CLVision23](https://sites.google.com/view/clvision2023/overview?authuser=0) (CVPR Workshop)
 * [**March 9th, 2023**]: Media coverage by [DOU](https://dou.ua/lenta/interviews/taras-rumezhak-about-oxford/?from=twitter&utm_source=twitter&utm_medium=social), a Ukrainian development community focused on technologies, frameworks, and code, for my work with [Taras Rumezhak](https://www.linkedin.com/in/trumezhak/).
+* [**March 1st, 2023**]: I am **promoted** to a Senior Researcher (G9) in Machine Learning and Computer Vision at Oxford.
 * [**February 28th, 2023**]: I will serve as an **Area Chair** for the NeurIPS 2023.
 * [**February 27th, 2023**]: **Two papers** accepted to CVPR 2023. One of the two papers is accepted as a **highlight** (2.5% of ~9K submissions).
 * [**January 23th, 2023**]: I will serve as an **Area Chair** for the ICLR 2023 Workshop on Trustworthy ML.
@@ -27,7 +28,7 @@ title: News
 * [**May 26th, 2022**]: **Three papers** accepted to the Adversarial Machine Learning Frontiers ICML2022 workshop! Papers will be coming on arXiv soon.
 * [**May 16th, 2022**]: Our paper titled [Data Dependent Randomzied Smoothing](https://arxiv.org/abs/2012.04351)  is accepted to UAI22.
 * [**April 22nd, 2022**]: I was selected as the [Highlighted Reviewer of ICLR 2022](https://iclr.cc/Conferences/2022/Reviewers) and received a free conference registration.
-* [**Dec 1st, 2021**]: I got promoted to a senior researcher of the Torr Vision Group (TVG) at the University of Oxford.
+* [**Dec 1st, 2021**]: I got **promoted** to a Senior Research Associate (G8) in machine learning of the Torr Vision Group (TVG) at the University of Oxford.
 * [**Dec 1st, 2021**]: **Two papers**, [Combating Adversaries with anti-adversaries](https://arxiv.org/abs/2103.14347) and [DeformRS: Certifying Input Deformations with Randomized Smoothing](https://arxiv.org/abs/2107.00996), are accepted in AAAI22.
 * [**Nov 18th, 2021**]: We were awarded KAUST's Competitive Research Grant with a total of > 1.05M$ (one million USD). This is a 3 years collaboration between KAUST and Oxford.
 * [**Oct 15th, 2021**]: [Rethinking Clustering for Robustness](https://arxiv.org/abs/2006.07682) is accepted in BMVC21. 
