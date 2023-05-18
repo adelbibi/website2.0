@@ -40,9 +40,9 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://docs.google.com/presentation/d/1h_ez1Ip4Qu01zX9eGNeaaBL4QvICbbdq/edit?usp=sharing&ouid=105085779370076248797&rtpof=true&sd=true"
 url_slides: ""
-url_video: "https://docs.google.com/presentation/d/1h_ez1Ip4Qu01zX9eGNeaaBL4QvICbbdq/edit?usp=sharing&ouid=105085779370076248797&rtpof=true&sd=true"
+url_video: ""
 
 # # Markdown Slides (optional).
 # #   Associate this talk with Markdown slides.
