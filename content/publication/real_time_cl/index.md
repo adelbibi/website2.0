@@ -57,7 +57,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2302.01047'
 url_code: 'https://github.com/Yasir-Ghunaim/RealtimeOCL'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://docs.google.com/presentation/d/16gA6zKqaVNM4eAdUm7NkWf13YCy7FyR4/edit?usp=share_link&ouid=105085779370076248797&rtpof=true&sd=true'
 url_project: ''
 url_slides: ''
 url_source: ''
