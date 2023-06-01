@@ -58,7 +58,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2303.11165'
 url_code: 'https://github.com/drimpossible/BudgetCL'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1s-QxuqaPgL_eMwfv4hf9DkjKYWL4sOjv/view?usp=share_link'
 url_project: ''
 url_slides: ''
 url_source: ''
