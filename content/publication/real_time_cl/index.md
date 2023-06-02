@@ -61,7 +61,7 @@ url_poster: 'https://docs.google.com/presentation/d/16gA6zKqaVNM4eAdUm7NkWf13YCy
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=UFfZHbuLtEA&ab_channel=YasirGhunaim'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
