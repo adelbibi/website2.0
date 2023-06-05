@@ -62,7 +62,7 @@ url_poster: 'https://drive.google.com/file/d/1s-QxuqaPgL_eMwfv4hf9DkjKYWL4sOjv/v
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=3nmRtFkF5fw&ab_channel=IVULKAUST'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
