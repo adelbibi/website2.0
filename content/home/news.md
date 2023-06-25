@@ -10,8 +10,11 @@ weight: 20
 
 title: News
 ---
-* [**April 24th, 2023**]: **One paper** acepted to ICML 2023
-* [**March 29th, 2023**]: **Four papers** acepted to [CLVision23](https://sites.google.com/view/clvision2023/overview?authuser=0) (CVPR Workshop)
+* [**June 23rd, 2023**]: **One paper** accepted to [DeployableGenerativeAI](https://deployinggenerativeai.github.io/) (ICML23 Workshop).
+* [**June 20th, 2023**]: **Three papers** accepted to [AdvML-Frontiers](https://advml-frontier.github.io/) (ICML23 Workshop).
+* [**June 18th, 2023**]: Invited to give a talk at the [CLVision](https://sites.google.com/view/clvision2023/overview?authuser=0) workshop in CVPR23. I was also part of the panel discussion.
+* [**April 24th, 2023**]: **One paper** accepted to ICML 2023.
+* [**March 29th, 2023**]: **Four papers** accepted to [CLVision](https://sites.google.com/view/clvision2023/overview?authuser=0) (CVPR23 Workshop).
 * [**March 9th, 2023**]: Media coverage by [DOU](https://dou.ua/lenta/interviews/taras-rumezhak-about-oxford/?from=twitter&utm_source=twitter&utm_medium=social), a Ukrainian development community focused on technologies, frameworks, and code, for my work with [Taras Rumezhak](https://www.linkedin.com/in/trumezhak/).
 * [**March 1st, 2023**]: I am **promoted** to a Senior Researcher (G9) in Machine Learning and Computer Vision at Oxford.
 * [**February 28th, 2023**]: I will serve as an **Area Chair** for the NeurIPS 2023.
