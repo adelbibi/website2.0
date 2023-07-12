@@ -22,6 +22,7 @@ title:
   <div class="col-md-12 section-heading">
     <h1>Officially Co-supervised PhD Students</h1>
   </div>
+
   <div class="col-12 col-sm-auto people-person">
       <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://eng.ox.ac.uk/media/7515/francisco-girbal-eiras.jpg?anchor=center&mode=crop&width=250&height=250&rnd=132778322260000000" alt="Avatar"> -->
       <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/francisco-girbal-eiras.jpeg" alt="Avatar">
@@ -38,6 +39,7 @@ title:
 </ul>
     </div>
   </div>
+
   <div class="col-12 col-sm-auto people-person">
       <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://media-exp1.licdn.com/dms/image/C4D03AQE5XpLseetAPA/profile-displayphoto-shrink_400_400/0/1517239897911?e=1668643200&v=beta&t=B2t9tU-LxRy8xE6zDtlWVUdDooRTMFSd42k7qnVi51k" alt="Avatar"> -->
       <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/csaba-botos.jpeg" alt="Avatar">
@@ -54,6 +56,7 @@ title:
 </ul>
     </div>
   </div>
+
   <div class="col-12 col-sm-auto people-person">
       <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
       <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/cornelius-emde.jpeg" alt="Avatar">
@@ -70,20 +73,7 @@ title:
 </ul>
     </div>
   </div>
-
-
-
-
-<!-- ############ --> 
-<!-- Un-officially Co-supervised PhD Students -->
-
 <!-- Ameya Prabhu -->
-
-<div class="container">
-<div class="row justify-content-center people-widget">
-  <div class="col-md-12 section-heading">
-    <h1>Un-officially Co-supervised PhD Students</h1>
-  </div>
   <div class="col-12 col-sm-auto people-person">
       <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://drimpossible.github.io/" alt="Avatar">
     <div class="portrait-title"> -->
@@ -100,6 +90,20 @@ title:
     </li> -->
 </ul>
     </div>
+  </div>
+  
+
+
+
+
+<!-- ############ --> 
+<!-- Un-officially Co-supervised PhD Students -->
+
+
+<div class="container">
+<div class="row justify-content-center people-widget">
+  <div class="col-md-12 section-heading">
+    <h1>Un-officially Co-supervised PhD Students</h1>
   </div>
   <!-- Alekasdar Peetrov -->
   <div class="col-12 col-sm-auto people-person">
