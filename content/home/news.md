@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**July 14th, 2023**]: **One paper** accepted to ICCV 2023.
 * [**June 23rd, 2023**]: **One paper** accepted to [DeployableGenerativeAI](https://deployinggenerativeai.github.io/) (ICML23 Workshop).
 * [**June 20th, 2023**]: **Three papers** accepted to [AdvML-Frontiers](https://advml-frontier.github.io/) (ICML23 Workshop).
 * [**June 18th, 2023**]: Invited to give a talk at the [CLVision](https://sites.google.com/view/clvision2023/overview?authuser=0) workshop in CVPR23. I was also part of the panel discussion.
