@@ -17,9 +17,8 @@ author_notes:
 - "Equal contribution"
 - ""
 - ""
-- ""
-- ""
-- ""
+- "equal supervision"
+- "equal supervision"
 
 date: "2023-07-15"
 doi: ""

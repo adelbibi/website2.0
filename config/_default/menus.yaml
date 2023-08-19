@@ -19,6 +19,15 @@ main:
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
+  # - name: Pulications  # Changed the name to "Publications"
+  #   weight: 40
+  #   subitems:  # Add subitems for the dropdown menu
+  #     - name: Featured Publications
+  #       url: '#featured'
+  #       weight: 1
+  #     - name: Recent Publications
+  #       url: '#publications'
+  #       weight: 2
   - name: Featured Publications
     url: '#featured'
     weight: 40
@@ -31,6 +40,8 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
+
+
   
 
 
