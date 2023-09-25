@@ -10,7 +10,11 @@ weight: 20
 
 title: News
 ---
+* [**September 21st, 2023**]: Our paper on [Language Model Tokenizers Introduce Unfairness Between Languages](https://arxiv.org/abs/2305.15425) has been accepted to NeurIPS23. Congrats to [Aleks](https://p-petrov.com/) for the great efforts!
+* [**September 5th, 2023**]: Invited by [Dima Damen](https://dimadamen.github.io/) to give a talk at Bristol University.
 * [**July 18th, 2023**]: One robustness [paper](https://arxiv.org/abs/2206.08242) is accepted to TMLR.
+* [**July 11th, 2023**]: Our paper on [Provably Correct Physics-Informed Neural Networks
+](https://arxiv.org/abs/2305.10157) received the **outstanding paper award** in the Formal Verification Workshop in ICML23. 
 * [**July 14th, 2023**]: One paper on [online continual learning](https://arxiv.org/abs/2305.09275) is accepted to ICCV 2023.
 * [**July 11th, 2023**]: Our paper [Provably Correct Physics-Informed Neural Networks
 ](https://arxiv.org/abs/2305.10157) received an **outstanding paper award** at [WFVML ICML23 workshop](https://www.ml-verification.com/).
