@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**November 2nd, 2023**]: I gave two talks on trustwrothy AI to Kuwait University and Intematix, a startup based in Riyadh in Saudi Arabia.
 * [**September 21st, 2023**]: One paper on [Language Model Tokenizers Introduce Unfairness Between Languages](https://arxiv.org/abs/2305.15425) has been accepted to NeurIPS23.
 * [**September 5th, 2023**]: Invited by [Dima Damen](https://dimadamen.github.io/) to give a talk at Bristol University.
 * [**July 18th, 2023**]: One robustness [paper](https://arxiv.org/abs/2206.08242) is accepted to TMLR.
