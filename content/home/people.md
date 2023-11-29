@@ -120,45 +120,6 @@ title:
 <div class="row justify-content-center people-widget">
   <div class="col-md-12 section-heading">
     <h1>Un-officially Co-supervised PhD Students</h1>
-  </div>
-      <!-- Pau de Jorge -->
-  <div class="col-12 col-sm-auto people-person">
-      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
-<img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/pau-de-jorge.jpeg" alt="Avatar">
-    <div class="portrait-title">
-    <div class="portrait-title">
-      <!-- <h2>Pau de Jorge</h2> -->
-      <h2><a href="https://www.linkedin.com/in/pau-de-jorge-aranda/?originalSubdomain=uk">Pau de Jorge</a></h2>
-      <h3>PhD Student, University of Oxford</h3>
-      <ul class="network-icon" aria-hidden="true">
-    <!-- <li>
-      <a href="https://www.linkedin.com/in/pau-de-jorge-aranda/?originalSubdomain=uk" target="_blank" rel="noopener">
-        <i class="fas fa-home"></i>
-      </a>
-    </li> -->
-</ul>
-    </div>
-  </div>
-  <!-- Pau de Jorge -->
-  <!-- </div> -->
-  <!-- <div class="col-12 col-sm-auto people-person"> -->
-      <!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="https://res.cloudinary.com/dwccfildc/c_limit,f_auto,w_1140/v1611324252/prod/af31e92fd2c497754cbfa1b527c8b6c7.jpg" alt="Avatar"> -->
-<!-- <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/will-lin.jpeg" alt="Avatar"> -->
-    <!-- <div class="portrait-title">
-    <div class="portrait-title"> -->
-      <!-- <h2>Chen Lin</h2> -->
-      <!-- <h2><a href="https://scholar.google.com/citations?user=rObgGWIAAAAJ&hl=en">Chen Lin</a></h2> -->
-      <!-- <h3>PhD Student, University of Oxford</h3> -->
-      <!-- <ul class="network-icon" aria-hidden="true"> -->
-    <!-- <li>
-      <a href="https://scholar.google.com/citations?user=rObgGWIAAAAJ&hl=en" target="_blank" rel="noopener">
-        <i class="fas fa-home"></i>
-      </a>
-    </li> -->
-<!-- </ul> -->
-    <!-- </div> -->
-  <!-- </div> -->
-
   <!-- Motasem Alfarra -->
   </div>
   <div class="col-12 col-sm-auto people-person">
