@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**December 9th, 2023**]: One paper ([SimCS: Simulation for Domain Incremental Online Continual Segmentation](https://arxiv.org/abs/2211.16234)) accepted to AAAI24.
 * [**November 2nd, 2023**]: I gave two talks on trustwrothy AI to Kuwait University and Intematix, a startup based in Riyadh in Saudi Arabia.
 * [**September 21st, 2023**]: One paper on [Language Model Tokenizers Introduce Unfairness Between Languages](https://arxiv.org/abs/2305.15425) has been accepted to NeurIPS23.
 * [**September 5th, 2023**]: Invited by [Dima Damen](https://dimadamen.github.io/) to give a talk at Bristol University.
