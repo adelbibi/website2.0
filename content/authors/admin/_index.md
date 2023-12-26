@@ -20,8 +20,9 @@ bio: My research interests include machine learning, computer vision, and optimi
 
 # Interests to show in About widget
 interests:
-- Computer Vision
-- Machine Learning
+- Trustworthy AI and Safety
+- Robustness and Certification
+- Continual Learning
 - Optimization
 
 # Education to show in About widget
@@ -79,8 +80,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Adel Bibi is a senior researcher in machine learning and computer vision at the [Department of Engineering Science](https://eng.ox.ac.uk/people/adel-bibi/) of the [University of Oxford](https://www.ox.ac.uk/), a Junior Research Fellow (JRF) at [Kellogg College](https://www.kellogg.ox.ac.uk), and a member of the [ELLIS](https://ellis.eu/) Society. Prior to that, Bibi was a senior research associate and a postdoctoral researcher with [Philip H.S. Torr](https://www.robots.ox.ac.uk/~phst/) since October 2020. He earned his MSc and PhD degrees from King Abdullah University of Science & Technology (KAUST) in 2016 and 2020, respectively, advised by [Bernard Ghanem](http://bernardghanem.com/). Bibi was awarded an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced) in 2022 in the Machine Learning Algorithms and Theory track. Bibi received four best paper awards: a NeurIPS23 workshop, an ICML23 workshop, a 2022 CVPR workshop, and one at Optimization and Big Data Conference in 2018. His contributions include over 30 papers published in top machine learning and computer vision conferences. He also received four outstanding reviewer awards (CVPR18, CVPR19, ICCV19, ICLR22) and a notable Area Chair Award in NeurIPS23.
+<!-- , and has served as an Area Chair for NeurIPS23, AAAI23, AAAI24, and IJCAI23. -->
 
-Adel Bibi is a senior researcher in machine learning and computer vision at the [Department of Engineering Science](https://eng.ox.ac.uk/people/adel-bibi/) of the [University of Oxford](https://www.ox.ac.uk/) with [Philip H.S. Torr](https://www.robots.ox.ac.uk/~phst/). He is a Junior Research Fellow (JRF) of [Kellogg College](https://www.kellogg.ox.ac.uk) and a member of the [ELLIS](https://ellis.eu/) Society. Prior to that, Bibi was a postdoctoral research assistant and a senior research associate in the same department. He received his MSc and PhD degrees from [King Abdullah University of Science & Technology (KAUST)](https://www.kaust.edu.sa/en) in 2016 and 2020, respectively, working with [Bernard Ghanem](http://bernardghanem.com/). In 2018, Bibi was a visiting PhD intern for 6 months at [Intel Labs](https://www.intel.co.uk/content/www/uk/en/research/overview.html) in Munich working with [Vladlen Koltun](http://vladlen.info/). Bibi received an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced) in Fall 2021 and has contributed more than 30 papers published in top machine learning and computer vision conferences like CVPR, ICCV, ECCV, ICCV, ICLR, NeurIPS, TPAMI, AAAI, and UAI. Bibi has also served as an Area Chair for NeurIPS23, AAAI23, and IJCAI23. He has received outstanding reviewer awards in CVPR18, CVPR19, ICCV19, and ICLR22. 
+
+<!-- Adel Bibi is a senior researcher in machine learning and computer vision at the [Department of Engineering Science](https://eng.ox.ac.uk/people/adel-bibi/) of the [University of Oxford](https://www.ox.ac.uk/) with [Philip H.S. Torr](https://www.robots.ox.ac.uk/~phst/). He is a Junior Research Fellow (JRF) of [Kellogg College](https://www.kellogg.ox.ac.uk) and a member of the [ELLIS](https://ellis.eu/) Society. Prior to that, Bibi was a postdoctoral research assistant and a senior research associate in the same department. He received his MSc and PhD degrees from [King Abdullah University of Science & Technology (KAUST)](https://www.kaust.edu.sa/en) in 2016 and 2020, respectively, working with [Bernard Ghanem](http://bernardghanem.com/). In 2018, Bibi was a visiting PhD intern for 6 months at [Intel Labs](https://www.intel.co.uk/content/www/uk/en/research/overview.html) in Munich working with [Vladlen Koltun](http://vladlen.info/). Bibi received an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced) in Fall 2021 and has contributed more than 30 papers published in top machine learning and computer vision conferences like CVPR, ICCV, ECCV, ICCV, ICLR, NeurIPS, TPAMI, AAAI, and UAI. Bibi has also served as an Area Chair for NeurIPS23, AAAI23, and IJCAI23. He has received outstanding reviewer awards in CVPR18, CVPR19, ICCV19, and ICLR22.  -->
+
 <!-- Adel works on a variety of machine learninproblems; problems that I personally find interesting and challenging.  -->
 
 Currently, Bibi is interested in large scale offline and online robust and private continual learning. Robustness, in both aspects empirical and provably certifiable, here refers to deep models under $\ell_p$ bounded additive and geometric attacks. Moreover, continual learning refers to the learning from a stream of data in stringent memory and computational settings.
@@ -90,4 +95,4 @@ Currently, Bibi is interested in large scale offline and online robust and priva
 
 <!-- <span style="color:red"> [**Hiring!**] </span> <u> We are always looking for strong postdoc candidates and prospective PhD students interested in the areas of robustness and continual learning. Contact me if you are interested.</u> -->
 <!-- <span style="color:red"> [**Hiring!**] </span> <u> We are always looking for strong prospective PhD students interested in the areas of robustness and continual learning. Contact me if you are interested.</u> -->
-
+<span style="color:red"> [**Note!**] </span>  <i>I am always looking for strong self-motivated PhD students. If you are interested in Trustworthy Foundation Models that Continually Learn, reach out! </i>

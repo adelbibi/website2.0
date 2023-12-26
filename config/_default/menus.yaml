@@ -31,9 +31,9 @@ main:
   - name: Featured Publications
     url: '#featured'
     weight: 40
-  - name: Recent Publications
-    url: '#publications'
-    weight: 50
+  # - name: Recent Publications
+  #   url: '#publications'
+  #   weight: 50
   - name: Talks
     url: '#talks'
     weight: 60
