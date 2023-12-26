@@ -6,7 +6,7 @@ title: "Target Response Adaptation for Correlation Filter Tracking"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Matthias Mueller
+- Matthias Müller
 - Bernard Ghanem
 
 # Author notes (optional)

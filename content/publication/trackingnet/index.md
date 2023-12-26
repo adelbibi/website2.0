@@ -5,7 +5,7 @@ title: "TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Matthias Mueller
+- Matthias Müller
 - admin
 - Silvio Giancola
 - Salman Alsubaihi
