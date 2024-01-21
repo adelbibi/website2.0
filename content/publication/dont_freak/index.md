@@ -31,8 +31,8 @@ publishDate: "2023-03-22T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 3rd Workshop of Adversarial Machine Learning on Computer Vision
-publication_short: In *CVPRW23*
+publication: 3rd Workshop on Adversarial Machine Learning on Computer Vision
+publication_short: Workshop on Adversarial Machine Learning on Computer Vision (**CVPRW23**)
 
 abstract: In this paper, we investigate the frequency sensitivity of Deep Neural Networks (DNNs) when presented with clean samples versus poisoned samples. Our analysis shows significant disparities in frequency sensitivity between these two types of samples. Building on these findings, we propose FREAK, a frequency-based poisoned sample detection algorithm that is simple yet effective. Our experimental results demonstrate the efficacy of FREAK not only against frequency backdoor attacks but also against some spatial attacks. Our work is just the first step in leveraging these insights. We believe that our analysis and proposed defense mechanism will provide a foundation for future research and development of backdoor defenses.
 

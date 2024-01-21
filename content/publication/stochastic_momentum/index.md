@@ -34,7 +34,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: International Conference on Learning Representation (ICLR20)​
-publication_short: In *ICLR20*
+publication_short: International Conference on Learning Representation (**ICLR20**)​
 
 abstract: ​​​​We consider the problem of unconstrained minimization of a smooth objective function in ℝd in setting where only function evaluations are possible. We propose and analyze stochastic zeroth-order method with heavy ball momentum. In particular, we propose, SMTP, a momentum version of the stochastic three-point method (STP). We show new complexity results for non-convex, convex and strongly convex functions. We test our method on a collection of learning to continuous control tasks on several MuJoCo environments with varying difficulty and compare against STP, other state-of-the-art derivative-free optimization algorithms and against policy gradient methods. SMTP significantly outperforms STP and all other methods that we considered in our numerical experiments. Our second contribution is SMTP with importance sampling which we call SMTP_IS. We provide convergence analysis of this method for non-convex, convex and strongly convex objectives.
 

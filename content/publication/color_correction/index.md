@@ -30,7 +30,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Winter Conference on Applications of Computer Vision (WACV19)​
-publication_short: In *WACV19*
+publication_short:  Winter Conference on Applications of Computer Vision (**WACV19**)​
 
 abstract: ​​​​​​Color correction and color transfer methods have gained a lot of attention in the past few years to circumvent color degradation that may occur due to various sources. In this paper, we propose a novel simple yet powerful strategy to enhance profoundly color distorted underwater images. The proposed approach combines both local and global information through a simple yet powerful affine transform model. Local and global information are carried through local color mapping and color covariance mapping between an input and some reference source, respectively. Several experiments on degraded underwater images demonstrate that the proposed method performs favourably to all other methods including ones that are tailored to correcting underwater images by explicit noise modelling.
 

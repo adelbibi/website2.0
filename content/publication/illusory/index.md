@@ -1,14 +1,18 @@
 ---
-title: "Language Model Tokenizers Introduce Unfairness Between Languages"
+title: "Illusory Attacks: Detectability Matters in Adversarial Attacks on Sequential Decision-Makers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Alexander Petrov
-- Emanuele La Malfa
-- Philip H. S. Torr
+- Tim Franzmeyer 
+- Stephen Marcus McAleer
+- Joao F. Henriques
+- Jakob Nicolaus Foerster
+- Philip H.S. Torr
 - admin
+- Christian Schroeder de Witt
+
 
 author_notes:
 - ""
@@ -17,11 +21,11 @@ author_notes:
 - ""
 
 
-date: "2023-09-21"
+date: "2024-01-21"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-21T00:00:00Z"
+publishDate: "2023-01-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +34,10 @@ publishDate: "2023-09-21T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Neural Information Processing Systems (NeurIPS23)
-publication_short: Neural Information Processing Systems (**NeurIPS23**)
+publication: International Conference on Learning Representations
+publication_short: International Conference on Learning Representations (**ICLR24**) [<span style="color:red">Spotlight</span>]
 
-abstract: Recent language models have shown impressive multilingual performance, even when not explicitly trained for it. Despite this, concerns have been raised about the quality of their outputs across different languages. In this paper, we show how disparity in the treatment of different languages arises at the tokenization stage, well before a model is even invoked. The same text translated into different languages can have drastically different tokenization lengths, with differences up to 15 times in some cases. These disparities persist across the 17 tokenizers we evaluate, even if they are intentionally trained for multilingual support. Character-level and byte-level models also exhibit over 4 times the difference in the encoding length for some language pairs. This induces unfair treatment for some language communities in regard to the cost of accessing commercial language services, the processing time and latency, as well as the amount of content that can be provided as context to the models. Therefore, we make the case that we should train future language models using multilingually fair tokenizers.
+abstract: Autonomous agents deployed in the real world need to be robust against adversarial attacks on sensory inputs. Robustifying agent policies requires anticipating the strongest attacks possible. We demonstrate that existing observation-space attacks on reinforcement learning agents have a common weakness; while effective, their lack of information-theoretic detectability constraints makes them detectable using automated means or human inspection. Detectability is undesirable to adversaries as it may trigger security escalations. We introduce illusory attacks, a novel form of adversarial attack on sequential decision-makers that is both effective and of bounded statistical detectability. We propose a novel dual ascent algorithm to learn such attacks end-to-end. Compared to existing attacks, we empirically find illusory attacks to be significantly harder to detect with automated methods, and a small study with human subjects suggests they are similarly harder to detect for humans. Our findings suggest the need for better anomaly detectors, as well as effective hardware and system-level defenses.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -52,7 +56,7 @@ url_pdf: 'https://arxiv.org/abs/2305.15425'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://aleksandarpetrov.github.io/tokenization-fairness/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''

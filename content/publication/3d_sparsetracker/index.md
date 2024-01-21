@@ -28,8 +28,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Conference on Computer Vision and Pattern Recognition (CVPR16), IEEE
-publication_short: In *CVPR16*
+publication: Conference on Computer Vision and Pattern Recognition (CVPR16)
+publication_short: Computer Vision and Pattern Recognition (**CVPR16**)
 
 abstract: ​In this paper, we present a part-based sparse tracker in a particle filter framework where both the motion and appearance model are formulated in 3D. The motion model is adaptive and directed according to a simple yet powerful occlusion handling paradigm, which is intrinsically fused in the motion model. Also, since 3D trackers are sensitive to synchronization and registration noise in the RGB and depth streams, we propose automated methods to solve these two issues. Extensive experiments are conducted on a popular RGBD tracking benchmark, which demonstrate that our tracker can achieve superior results, outperforming many other recent and state-of-the-art RGBD trackers.
 

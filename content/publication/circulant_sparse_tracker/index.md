@@ -29,8 +29,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Conference on Computer Vision and Pattern Recognition (CVPR16), IEEE
-publication_short: Spotlight in *CVPR16*
+publication: Conference on Computer Vision and Pattern Recognition (CVPR16)
+publication_short: Conference on Computer Vision and Pattern Recognition (**CVPR16**) [<span style="color:red">Spotlight</span>]
 
 abstract: ​Sparse representation has been introduced to visual tracking by finding the best target candidate with minimal reconstruction error within the particle filter framework. However, most sparse representation based trackers have high computational cost, less than promising tracking performance, and limited feature representation. To deal with the above issues, we propose a novel circulant sparse tracker (CST), which exploits circulant target templates. Because of the circulant structure property, CST has the following advantages; (1) It can refine and reduce particles using circular shifts of target templates. (2) The optimization can be efficiently solved entirely in the Fourier domain. (3) High dimensional features can be embedded into CST to significantly improve tracking performance without sacrificing much computation time. Both qualitative and quantitative evaluations on challenging benchmark sequences demonstrate that CST performs better than all other sparse trackers and favorably against state-of-the-art methods.
 

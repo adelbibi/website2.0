@@ -27,7 +27,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: International Conference on Computer Vision Workshop (ICCVW15), IEEE
-publication_short: In *ICCVW15* (VOT15)
+publication_short: International Conference on Computer Vision Workshop (**ICCVW15**)
 
 abstract: ​​​This paper identifies the major drawbacks of a very computationally efficient and state-of- the-art-tracker known as the Kernelized Correlation Filter (KCF) tracker. These drawbacks include an assumed fixed scale of the target in every frame, as well as, a heuristic update strategy of the filter taps to incorporate historical tracking information (i.e. simple linear combination of taps from the previous frame). In our approach, we update the scale of the tracker by maximizing over the posterior distribution of a grid of scales. As for the filter update, we prove and show that it is possible to use all previous training examples to update the filter taps very efficiently using fixed-point optimization. We validate the efficacy of our approach on two tracking datasets, VOT2014 and VOT2015.
 
