@@ -42,7 +42,7 @@ categories:
 - 
 ---
 
-## Overview
+<!-- ## Overview -->
 
 The award is presented to our paper “[Provably Correct Physics-Informed Neural Networks](https://arxiv.org/abs/2305.10157)” in the Workshop on Formal Verification of Machine Learning (WFVML 2023) in ICML23. Congrats to the my student Francisco Eiras. This is a joint work with folks from Google DeepMind.
 

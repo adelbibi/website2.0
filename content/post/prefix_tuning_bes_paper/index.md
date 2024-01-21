@@ -1,6 +1,6 @@
 ---
 title: Outstanding Paper Award; Entropic Paper Award in NeurIPS23 workshop
-subtitle: Our paper titled "When Do Prompting and Prefix-Tuning Work? A Theory of Capabilities and Limitations" received and outstanding paper award.
+subtitle: Our paper titled "When Do Prompting and Prefix-Tuning Work? A Theory of Capabilities and Limitations" received an outstanding paper award.
 
 # Summary for listings and search engines
 summary: 
@@ -42,7 +42,7 @@ categories:
 - 
 ---
 
-## Overview
+<!-- ## Overview -->
 
 The award is presented to our paper “[Paper: When Do Prompting and Prefix-Tuning Work?
 A Theory of Capabilities and Limitations](https://arxiv.org/abs/2310.19698)” in the NeurIPS23 Workshop I Cant Believe Its Not Better (ICBINB): Failure Modes in the Age of Foundation Models. The paper has also been accepted in ICLR24. Congratulations to my student Aleksandar Petrov!

@@ -42,7 +42,7 @@ categories:
 - 
 ---
 
-## Overview
+<!-- ## Overview -->
 
 I was awarded the prestigious Junior Research Fellowship at Kellogg College (One of the University of Oxford's many colleges). As part of the fellowship, I have access to the college's facilities, free lunches as a college fellow, and the advising of up to 9 graduate students.
 

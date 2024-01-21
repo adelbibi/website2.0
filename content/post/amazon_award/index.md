@@ -42,7 +42,7 @@ categories:
 - 
 ---
 
-## Overview
+<!-- ## Overview -->
 
 I was awarded the Amazon Research Award in 2022 as a receipiant for the Fall 2021 track in Machine Learning Algorithms and Theory track. My project is titlted "Randomized Smoothing; Future Directions and Extensions". As part of the award, I was gifted $20,000 of AWS credits.
 
