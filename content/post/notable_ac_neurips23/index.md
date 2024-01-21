@@ -24,7 +24,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Kellogg**](https://www.kellogg.ox.ac.uk/)'
+  caption: 'Image credit: [Aleksandar Petrov]'
   focal_point: ""
   placement: 2
   preview_only: false
