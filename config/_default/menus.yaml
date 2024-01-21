@@ -28,15 +28,15 @@ main:
   #     - name: Recent Publications
   #       url: '#publications'
   #       weight: 2
+  - name: Awards
+    url: '#posts'
+    weight: 40
   - name: Featured Publications
     url: '#featured'
-    weight: 40
+    weight: 50
   # - name: Recent Publications
   #   url: '#publications'
   #   weight: 50
-  - name: Awards
-    url: '#posts'
-    weight: 50
   - name: Talks
     url: '#talks'
     weight: 60
