@@ -1,5 +1,5 @@
 ---
-title: "Continual Learning on a Diet: Learning from Sparsely Labeled Streams Under Constrained COmputation"
+title: "Continual Learning on a Diet: Learning from Sparsely Labeled Streams Under Constrained Computation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
