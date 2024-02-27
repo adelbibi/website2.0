@@ -7,7 +7,7 @@ title: "Continual Learning on a Diet: Learning from Sparsely Labeled Streams Und
 authors:
 - Wenxuan Zhang
 - Youssef Mohamed
--  Bernard Ghanem
+- Bernard Ghanem
 - Philip H. S. Torr
 - admin
 - Mohamed Elhoseiny 
