@@ -10,9 +10,9 @@ weight: 20
 
 title: News
 ---
-* [**February 15th, 2023**]: I gave a talk to [TAHAKOM](https://tahakom.com/) on AI Safety Research.
-* [**February 13th, 2023**]: I gave a talk at the AI Safety meeting in the Said Busienss School in Oxford in our work on AI Safety.
-* [**February 7th, 2023**]: Our paper [SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?
+* [**February 15th, 2024**]: I gave a talk to [TAHAKOM](https://tahakom.com/) on AI Safety Research.
+* [**February 13th, 2024**]: I gave a talk at the AI Safety meeting in the Said Busienss School in Oxford in our work on AI Safety.
+* [**February 7th, 2024**]: Our paper [SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?
 ](https://arxiv.org/abs/2402.01832) on training CLIP with only synthetic data was advertised on [TLDR News](https://actions.tldrnewsletter.com/web-version?ep=1&lc=e818ae92-999d-11ee-a2f2-01fa339a07aa&p=5470c1da-c59d-11ee-85a6-d92706d36a5f&pt=campaign&t=1707315962&s=4586e6a094085955c0463173be84d5e1e6626da9a069ea66ea8035baa6610d62) which has over 1M subscribers.
 * [**January 21th, 2024**]: Three papers accepted to **ICLR24** (one as spotlight).
 
