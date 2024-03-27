@@ -97,4 +97,4 @@ Currently, Bibi is interested in large scale offline and online robust and priva
 <!-- <span style="color:red"> [**Hiring!**] </span> <u> We are always looking for strong prospective PhD students interested in the areas of robustness and continual learning. Contact me if you are interested.</u> -->
 <span style="color:red"> [**Note!**] </span>  <i>I am always looking for strong self-motivated PhD students. If you are interested in Trustworthy Foundation Models that Continually Learn, reach out! </i>
 
-<span style="color:red"> [**Consulting Expertise**] </span>  <i> I have consultanted in the past for projects spanning core machine learning and data science, computer vision, certification and AI safety, optimziation reformulations for matching and resource allocaiton problems, among other problems.</i>
+<span style="color:red"> [**Consulting Expertise**] </span>  <i> I have consulted in the past for projects spanning core machine learning and data science, computer vision, certification and AI safety, optimization formulations for matching and resource allocation problems, among other problems.</i>
