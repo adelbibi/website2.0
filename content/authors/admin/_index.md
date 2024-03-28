@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/open?id=1q4qruNUpKdgDYGN8xBj2qc9pI01Gm49F
+  link: https://drive.google.com/file/d/1NVXoFLv8tKsX8IxIvBe0uSlsILQwOxbZ/view?usp=sharing
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
