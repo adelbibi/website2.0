@@ -13,7 +13,7 @@ location: Abu Dhabi, UAE
 #   postcode:
 #   country: 
 
-summary: An invitation by Prof Faha Khan
+summary: An invitation by Prof Fahad Khan
 abstract: 
 
 # Talk start and end times.
