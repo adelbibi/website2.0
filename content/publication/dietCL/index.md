@@ -53,7 +53,7 @@ featured: true
 url_pdf: 'https://openreview.net/forum?id=Xvfz8NHmCj'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/151CWH_CTXLk1qTLwxM3zmEApmJ3uJlVx/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
