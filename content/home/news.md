@@ -10,7 +10,7 @@ weight: 20
 
 title: News
 ---
-* [**May 2nd, 2024**]: **Four papers** accepted to ICML 2024.; all the papers are on AI Safety. Congrats to all students' lead authors.
+* [**May 2nd, 2024**]: **Four papers** accepted to ICML 2024.; all the papers are on AI Safety. Special congrats to all students' lead authors.
 * [**April 19th, 2024**]: I was invited to give a number of talks in [MBZUAI](https://mbzuai.ac.ae/) and the [Oxford Robotics Institute](https://ori.ox.ac.uk/).
 * [**February 15th, 2024**]: I gave a talk to [TAHAKOM](https://tahakom.com/) on AI Safety Research.
 * [**February 13th, 2024**]: I gave a talk at the AI Safety meeting in the Said Busienss School in Oxford in our work on AI Safety.
