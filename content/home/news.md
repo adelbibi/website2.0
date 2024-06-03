@@ -10,7 +10,10 @@ weight: 20
 
 title: News
 ---
-* [**May 2nd, 2024**]: **Four papers** accepted to ICML 2024.; all the papers are on AI Safety. Special congrats to all students' lead authors.
+* [**June 3rd, 2024**]: **Four papers** accepted to ICML 2024. Special congrats to all students' lead authors. One accepted as Oral.
+* [**May 28th, 2024**]: [Kumail Alhamoud](https://kumailalhamoud.netlify.app/) is visiting me and Phil for 3 months this summer. Welcome, Kumail!
+* [**May 23rd, 2024**]: I am selected to serve as a **Senior Area Chair** for NeurIPS4.
+* [**May 11th, 2024**]: **Media Coverage**: Our recent paper on [No "zero-shot" without exponential data](https://arxiv.org/abs/2404.04125) has been covered and featured by **Computerphile** (~2.5 million subscribers) one youtube; see video [here](https://www.youtube.com/watch?v=dDUC-LqVrPU). Moreover, **Sam Altma** of OpenAI has also commented on reddit on our paper saying OpenAI is exploring similar directions. See details [here](https://www.reddit.com/r/ChatGPT/comments/1coumbd/comment/l3hqzve/?context=3&share_id=XGWea8Cvfd-PevgQuEgd8&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1).
 * [**April 19th, 2024**]: I was invited to give a number of talks in [MBZUAI](https://mbzuai.ac.ae/) and the [Oxford Robotics Institute](https://ori.ox.ac.uk/).
 * [**February 15th, 2024**]: I gave a talk to [TAHAKOM](https://tahakom.com/) on AI Safety Research.
 * [**February 13th, 2024**]: I gave a talk at the AI Safety meeting in the Said Busienss School in Oxford in our work on AI Safety.
