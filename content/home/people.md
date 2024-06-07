@@ -45,7 +45,7 @@ title:
       <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/csaba-botos.jpeg" alt="Avatar">
     <div class="portrait-title">
       <!-- <h2>Csaba Botos</h2> -->
-      <h2><a href="https://www.linkedin.com/in/botos-csaba/">Csaba Botos</a></h2>
+      <h2><a href="https://botcs.github.io/academic/">Csaba Botos</a></h2>
       <h3>PhD Student, University of Oxford</h3>
       <ul class="network-icon" aria-hidden="true">
     <!-- <li>
@@ -62,7 +62,7 @@ title:
       <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/cornelius-emde.jpeg" alt="Avatar">
     <div class="portrait-title">
       <!-- <h2>Cornelius Emde</h2> -->
-      <h2><a href="https://www.bdi.ox.ac.uk/Team/cornelius-emde">Cornelius Emde</a></h2>
+      <h2><a href="https://cemde.github.io/">Cornelius Emde</a></h2>
       <h3>PhD Student, University of Oxford</h3>
       <ul class="network-icon" aria-hidden="true">
     <!-- <li>
