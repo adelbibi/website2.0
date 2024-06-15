@@ -1,13 +1,18 @@
 ---
-title: When Do Prompting and Prefix-Tuning Work? A Theory of Capabilities and Limitations
+title: Efficient Error Certification for Physics-Informed Neural Networks
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Aleksandra Petrov
+- Francisco Eiras
+- admin 
+- Rudy Bunel
+- Krishnamurthy Dvijotham
 - Philip H.S. Torr
-- admin
+- M. Pawan Kumar
+
+
 
 
 author_notes:
@@ -17,11 +22,11 @@ author_notes:
 - ""
 
 
-date: "2024-01-22"
+date: "2024-06-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-22T00:00:00Z"
+publishDate: "2024-06-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +35,10 @@ publishDate: "2023-01-22T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Learning Representations
-publication_short: International Conference on Learning Representations (**ICLR24**)
+publication: International Conference on Machine Learning
+publication_short: International Conference on Machine Learning (**ICML24**)
 
-abstract: Context-based fine-tuning methods like prompting, in-context learning, soft prompting (prompt tuning) and prefix-tuning have gained popularity as they often match the performance of full fine-tuning with a fraction of the parameters. Despite their empirical successes, there is little theoretical understanding of how these techniques influence the internal computation of the model and their expressiveness limitations. We show that despite the continuous embedding space being much more expressive than the discrete token space, soft-prompting and prefix-tuning are strictly less expressive than full fine-tuning. Concretely, context-based fine-tuning cannot change the relative attention pattern over the content and can only bias the outputs of an attention layer in a fixed direction. While this means that fine-tuning techniques such as prompting, in-context learning, soft prompting and prefix-tuning can successfully elicit or combine skills already present in the pretrained model, they cannot learn tasks requiring new attention patterns.
+abstract: Recent work provides promising evidence that Physics-Informed Neural Networks (PINN) can efficiently solve partial differential equations (PDE). However, previous works have failed to provide guarantees on the *worst-case* residual error of a PINN across the spatio-temporal domain - a measure akin to the tolerance of numerical solvers - focusing instead on point-wise comparisons between their solution and the ones obtained by a solver on a set of inputs. In real-world applications, one cannot consider tests on a finite set of points to be sufficient grounds for deployment, as the performance could be substantially worse on a different set. To alleviate this issue, we establish guaranteed error-based conditions for PINNs over their *continuous* applicability domain. To verify the extent to which they hold, we introduce ∂-CROWN; a general, efficient and scalable post-training framework to bound PINN residual errors. We demonstrate its effectiveness in obtaining tight certificates by applying it to two classically studied PINNs -- Burgers' and Schrödinger's equations --, and two more challenging ones with real-world applications -- the Allan-Cahn and Diffusion-Sorption equations.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -48,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2310.19698'
+url_pdf: 'https://arxiv.org/pdf/2305.10157'
 url_code: ''
 url_dataset: ''
 url_poster: ''

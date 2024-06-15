@@ -1,11 +1,11 @@
 ---
-title: When Do Prompting and Prefix-Tuning Work? A Theory of Capabilities and Limitations
+title: Prompting a Pretrained Transformer Can Be a Universal Approximator
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Aleksandra Petrov
+- Aleksandar Petrov
 - Philip H.S. Torr
 - admin
 
@@ -17,11 +17,11 @@ author_notes:
 - ""
 
 
-date: "2024-01-22"
+date: "2024-06-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-22T00:00:00Z"
+publishDate: "2024-06-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +30,11 @@ publishDate: "2023-01-22T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Learning Representations
-publication_short: International Conference on Learning Representations (**ICLR24**)
+publication: International Conference on Machine Learning
+publication_short: International Conference on Machine Learning (**ICML24**)
 
-abstract: Context-based fine-tuning methods like prompting, in-context learning, soft prompting (prompt tuning) and prefix-tuning have gained popularity as they often match the performance of full fine-tuning with a fraction of the parameters. Despite their empirical successes, there is little theoretical understanding of how these techniques influence the internal computation of the model and their expressiveness limitations. We show that despite the continuous embedding space being much more expressive than the discrete token space, soft-prompting and prefix-tuning are strictly less expressive than full fine-tuning. Concretely, context-based fine-tuning cannot change the relative attention pattern over the content and can only bias the outputs of an attention layer in a fixed direction. While this means that fine-tuning techniques such as prompting, in-context learning, soft prompting and prefix-tuning can successfully elicit or combine skills already present in the pretrained model, they cannot learn tasks requiring new attention patterns.
+abstract: Despite the widespread adoption of prompting, prompt tuning and prefix-tuning of transformer models, our theoretical understanding of these fine-tuning methods remains limited. A key question is whether one can arbitrarily modify the behavior of a pretrained model by prompting or prefix-tuning it. Formally, whether prompting and prefix-tuning a pretrained model can universally approximate sequence-to-sequence functions. This paper answers in the affirmative and demonstrates that much smaller pretrained models than previously thought can be universal approximators when prefixed. In fact, prefix-tuning a single attention head is sufficient to approximate any continuous function making the attention mechanism uniquely suited for universal approximation. Moreover, any sequence-to-sequence function can be approximated by prefixing a transformer with depth linear in the sequence length. Beyond these density-type results, we also offer Jackson-type bounds on the length of the prefix needed to approximate a function to a desired precision.
+
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -48,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2310.19698'
+url_pdf: 'https://arxiv.org/abs/2402.14753'
 url_code: ''
 url_dataset: ''
 url_poster: ''

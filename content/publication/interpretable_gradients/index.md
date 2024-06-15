@@ -1,13 +1,18 @@
 ---
-title: When Do Prompting and Prefix-Tuning Work? A Theory of Capabilities and Limitations
+title: Towards Interpretable Deep Local Learning with Successive Gradient Reconciliation
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Aleksandra Petrov
+- Yibo Yang
+- Xiaojie Li
+- Motasem Alfarra
+- Hasan Hammoud
+- Adel Bibi
 - Philip H.S. Torr
-- admin
+- Bernard Ghanem
+
 
 
 author_notes:
@@ -17,11 +22,11 @@ author_notes:
 - ""
 
 
-date: "2024-01-22"
+date: "2024-06-12"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-22T00:00:00Z"
+publishDate: "2024-06-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +35,11 @@ publishDate: "2023-01-22T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Learning Representations
-publication_short: International Conference on Learning Representations (**ICLR24**)
+publication: International Conference on Machine Learning
+publication_short: International Conference on Machine Learning (**ICML24**)
 
-abstract: Context-based fine-tuning methods like prompting, in-context learning, soft prompting (prompt tuning) and prefix-tuning have gained popularity as they often match the performance of full fine-tuning with a fraction of the parameters. Despite their empirical successes, there is little theoretical understanding of how these techniques influence the internal computation of the model and their expressiveness limitations. We show that despite the continuous embedding space being much more expressive than the discrete token space, soft-prompting and prefix-tuning are strictly less expressive than full fine-tuning. Concretely, context-based fine-tuning cannot change the relative attention pattern over the content and can only bias the outputs of an attention layer in a fixed direction. While this means that fine-tuning techniques such as prompting, in-context learning, soft prompting and prefix-tuning can successfully elicit or combine skills already present in the pretrained model, they cannot learn tasks requiring new attention patterns.
+abstract: Relieving the reliance of neural network training on a global back-propagation (BP) has emerged as a notable research topic due to the biological implausibility and huge memory consumption caused by BP. Among the existing solutions, local learning optimizes gradient-isolated modules of a neural network with local errors and has been proved to be effective even on large-scale datasets. However, the reconciliation among local errors has never been investigated. In this paper, we first theoretically study non-greedy layer-wise training and show that the convergence cannot be assured when the local gradient in a module w.r.t. its input is not reconciled with the local gradient in the previous module w.r.t. its output. Inspired by the theoretical result, we further propose a local training strategy that successively regularizes the gradient reconciliation between neighboring modules without breaking gradient isolation or introducing any learnable parameters. Our method can be integrated into both local-BP and BP-free settings. In experiments, we achieve significant performance improvements compared to previous methods. Particularly, our method for CNN and Transformer architectures on ImageNet is able to attain a competitive performance with global BP, saving more than 40\% memory consumption.
+
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -48,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2310.19698'
+url_pdf: 'https://arxiv.org/abs/2406.05222'
 url_code: ''
 url_dataset: ''
 url_poster: ''

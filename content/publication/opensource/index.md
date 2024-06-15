@@ -1,13 +1,35 @@
 ---
-title: When Do Prompting and Prefix-Tuning Work? A Theory of Capabilities and Limitations
+title: Near to Mid-term Risks and Opportunities of Open-Source Generative AI
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Aleksandra Petrov
-- Philip H.S. Torr
+- Francisco Eiras
+- Aleksandar Petrov
+- Bertie Vidgen
+- Christian Schroeder
+- Fabio Pizzati
+- Katherine Elkins
+- Supratik Mukhopadhyay
 - admin
+- Botos Csaba
+- Fabro Steibel
+- Fazl Barez
+- Genevieve Smith
+- Gianluca Guadagni
+- Jon Chun
+- Jordi Cabot
+- Joseph Marvin Imperial
+- Juan Arturo Nolazco Flores
+- Lori Landay
+- Matthew T Jackson
+- Paul Röttger
+- Philip H.S. Torr
+- Trevor Darrell
+- Yong Suk Lee
+- Jakob Foerster
+
 
 
 author_notes:
@@ -17,11 +39,11 @@ author_notes:
 - ""
 
 
-date: "2024-01-22"
+date: "2024-06-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-22T00:00:00Z"
+publishDate: "2024-06-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +52,10 @@ publishDate: "2023-01-22T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Learning Representations
-publication_short: International Conference on Learning Representations (**ICLR24**)
+publication: International Conference on Machine Learning
+publication_short: International Conference on Machine Learning (**ICML24**) [<span style="color:red">Oral</span>]
 
-abstract: Context-based fine-tuning methods like prompting, in-context learning, soft prompting (prompt tuning) and prefix-tuning have gained popularity as they often match the performance of full fine-tuning with a fraction of the parameters. Despite their empirical successes, there is little theoretical understanding of how these techniques influence the internal computation of the model and their expressiveness limitations. We show that despite the continuous embedding space being much more expressive than the discrete token space, soft-prompting and prefix-tuning are strictly less expressive than full fine-tuning. Concretely, context-based fine-tuning cannot change the relative attention pattern over the content and can only bias the outputs of an attention layer in a fixed direction. While this means that fine-tuning techniques such as prompting, in-context learning, soft prompting and prefix-tuning can successfully elicit or combine skills already present in the pretrained model, they cannot learn tasks requiring new attention patterns.
+abstract: In the next few years, applications of Generative AI are expected to revolutionize a number of different areas, ranging from science & medicine to education. The potential for these seismic changes has triggered a lively debate about potential risks and resulted in calls for tighter regulation, in particular from some of the major tech companies who are leading in AI development. While regulation is important, it is key that it does not put at risk the budding field of open-source Generative AI. We argue for the responsible open sourcing of generative AI models in the near and medium term. To set the stage, we first introduce an AI openness taxonomy system and apply it to 40 current large language models. We then outline differential benefits and risks of open versus closed source AI and present potential risk mitigation, ranging from best practices to calls for technical and scientific contributions. We hope that this report will add a much needed missing voice to the current public discourse on near to mid-term AI safety and other societal impact.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -48,7 +70,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2310.19698'
+url_pdf: 'https://arxiv.org/abs/2404.17047'
 url_code: ''
 url_dataset: ''
 url_poster: ''
