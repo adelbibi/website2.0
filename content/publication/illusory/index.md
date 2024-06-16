@@ -52,11 +52,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2305.15425'
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2207.10170'
+url_code: 'https://github.com/fratim/Illu-Attacks-Jax'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://www.robots.ox.ac.uk/~vgg/research/illusory-attacks/'
 url_slides: ''
 url_source: ''
 url_video: ''
