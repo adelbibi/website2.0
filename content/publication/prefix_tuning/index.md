@@ -51,7 +51,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2310.19698'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1FwsT2krDzTVE7vx6hxgz-MvyPlhZt4Hr/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
