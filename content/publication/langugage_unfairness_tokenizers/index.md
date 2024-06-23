@@ -51,7 +51,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2305.15425'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1gfiX3s7F8QZV_QWWUu1x8tFtj9i1-I8g/view?usp=sharing'
 url_project: 'https://aleksandarpetrov.github.io/tokenization-fairness/'
 url_slides: ''
 url_source: ''
