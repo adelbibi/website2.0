@@ -55,7 +55,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2304.13019'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1E3ywyPI9pSOGxNtGfKJuRtDGfnKQ0vqH/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
