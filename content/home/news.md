@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**June 3rd, 2024**]: **One paper** accepted to ECCV 2024.
 * [**June 3rd, 2024**]: **Four papers** accepted to ICML 2024. Special congrats to all students' lead authors. One accepted as Oral.
 * [**May 28th, 2024**]: [Kumail Alhamoud](https://kumailalhamoud.netlify.app/) is visiting me and Phil for 3 months this summer. Welcome, Kumail!
 * [**May 23rd, 2024**]: I am selected to serve as a **Senior Area Chair** for NeurIPS4.
@@ -175,8 +176,7 @@ title: News
 
 ***
 
-* [**October 19, 2016**]: ECCV16's [code](https://github.com/adelbibi/
-Target-Response-Adaptation-for-Correlation-Filter-Tracking) has been released on github.
+* [**October 19, 2016**]: ECCV16's [code](https://github.com/adelbibi/Target-Response-Adaptation-for-Correlation-Filter-Tracking) has been released on github.
 * [**October 8, 2016**]: Attended [ECCV16](http://www.eccv2016.org/), Amsterdam, Netherlands.
 * [**July 11, 2016**]: 1 spotlight paper accepted to [ECCV16](http://www.eccv2016.org/), Amsterdam, Netherlands.
 * [**June 26, 2016**]: Attended [CVPR16](http://cvpr2016.thecvf.com/), Las Vegas, USA. Two papers presented.</li>
