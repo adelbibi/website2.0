@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**July 8th, 2024**]: **One paper** accepted to MICCAI 2024.
 * [**June 3rd, 2024**]: **One paper** accepted to ECCV 2024.
 * [**June 3rd, 2024**]: **Four papers** accepted to ICML 2024. Special congrats to all students' lead authors. One accepted as Oral.
 * [**May 28th, 2024**]: [Kumail Alhamoud](https://kumailalhamoud.netlify.app/) is visiting me and Phil for 3 months this summer. Welcome, Kumail!
