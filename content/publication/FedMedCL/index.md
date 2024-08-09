@@ -1,23 +1,28 @@
 ---
-title: Prompting a Pretrained Transformer Can Be a Universal Approximator
+title: FedMedICL; Towards Holistic Evaluation of Distribution Shifts in Federated Medical Imaging
+
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Aleksandar Petrov
+- Kumail Alhamoud
+- Yasir Ghunaim
+- Motasem Alfarra
+- Thomas Hartvigsen
 - Philip H.S. Torr
+- Bernard Ghanem
 - admin
-
+- Marzyeh Ghassemi
 
 author_notes:
-- ""
-- ""
+- "Equal contribution"
+- "Equal contribution"
 - ""
 - ""
 
 
-date: "2024-06-22"
+date: "2024-07-07"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,10 +35,10 @@ publishDate: "2024-06-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Machine Learning
-publication_short: International Conference on Machine Learning (**ICML24**)
+publication: The Medical Image Computing and Computer Assisted Intervention Society 
+publication_short: The Medical Image Computing and Computer Assisted Intervention Society (**MICCAI24**)
 
-abstract: Despite the widespread adoption of prompting, prompt tuning and prefix-tuning of transformer models, our theoretical understanding of these fine-tuning methods remains limited. A key question is whether one can arbitrarily modify the behavior of a pretrained model by prompting or prefix-tuning it. Formally, whether prompting and prefix-tuning a pretrained model can universally approximate sequence-to-sequence functions. This paper answers in the affirmative and demonstrates that much smaller pretrained models than previously thought can be universal approximators when prefixed. In fact, prefix-tuning a single attention head is sufficient to approximate any continuous function making the attention mechanism uniquely suited for universal approximation. Moreover, any sequence-to-sequence function can be approximated by prefixing a transformer with depth linear in the sequence length. Beyond these density-type results, we also offer Jackson-type bounds on the length of the prefix needed to approximate a function to a desired precision.
+abstract: For medical imaging AI models to be clinically impactful, they must generalize. However, this goal is hindered by (i) diverse types of distribution shifts, such as temporal, demographic, and label shifts, and (ii) limited diversity in datasets that are siloed within single medical institutions. While these limitations have spurred interest in federated learning, current evaluation benchmarks fail to evaluate different shifts simultaneously. However, in real healthcare settings, multiple types of shifts co-exist, yet their impact on medical imaging performance remains unstudied. In response, we introduce FedMedICL, a unified framework and benchmark to holistically evaluate federated medical imaging challenges, simultaneously capturing label, demographic, and temporal distribution shifts. We comprehensively evaluate several popular methods on six diverse medical imaging datasets (totaling 550 GPU hours). Furthermore, we use FedMedICL to simulate COVID-19 propagation across hospitals and evaluate whether methods can adapt to pandemic changes in disease prevalence. We find that a simple batch balancing technique surpasses advanced methods in average performance across FedMedICL experiments. This finding questions the applicability of results from previous, narrow benchmarks in real-world medical settings.
 
 
 # Summary. An optional shortened abstract.
@@ -49,8 +54,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2402.14753'
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2407.08822'
+url_code: 'https://github.com/m1k2zoo/FedMedICL'
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -1,27 +1,32 @@
 ---
-title: Prompting a Pretrained Transformer Can Be a Universal Approximator
+title: On Pretraining Data Diversity for Self-Supervised Learning
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Aleksandar Petrov
+- Hasan Abed Al Kader Hammoud
+- Tuhin Das
+- Fabio Pizzati
 - Philip H.S. Torr
 - admin
+- Bernard Ghanem
 
 
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 - ""
-- ""
-- ""
-- ""
+- "Equal advising"
+- "Equal advising"
 
 
-date: "2024-06-22"
+date: "2024-07-22"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-15T00:00:00Z"
+publishDate: "2024-07-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +35,10 @@ publishDate: "2024-06-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Machine Learning
-publication_short: International Conference on Machine Learning (**ICML24**)
+publication: European Conference on Computer Vision
+publication_short: European Conference on Computer Vision (**ECCV24**)
 
-abstract: Despite the widespread adoption of prompting, prompt tuning and prefix-tuning of transformer models, our theoretical understanding of these fine-tuning methods remains limited. A key question is whether one can arbitrarily modify the behavior of a pretrained model by prompting or prefix-tuning it. Formally, whether prompting and prefix-tuning a pretrained model can universally approximate sequence-to-sequence functions. This paper answers in the affirmative and demonstrates that much smaller pretrained models than previously thought can be universal approximators when prefixed. In fact, prefix-tuning a single attention head is sufficient to approximate any continuous function making the attention mechanism uniquely suited for universal approximation. Moreover, any sequence-to-sequence function can be approximated by prefixing a transformer with depth linear in the sequence length. Beyond these density-type results, we also offer Jackson-type bounds on the length of the prefix needed to approximate a function to a desired precision.
+abstract: We explore the impact of training with more diverse datasets, characterized by the number of unique samples, on the performance of self-supervised learning (SSL) under a fixed computational budget. Our findings consistently demonstrate that increasing pretraining data diversity enhances SSL performance, albeit only when the distribution distance to the downstream data is minimal. Notably, even with an exceptionally large pretraining data diversity achieved through methods like web crawling or diffusion-generated data, among other ways, the distribution shift remains a challenge. Our experiments are comprehensive with seven SSL methods using large-scale datasets such as ImageNet and YFCC100M amounting to over 200 GPU days.
 
 
 # Summary. An optional shortened abstract.
@@ -49,8 +54,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2402.14753'
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2403.13808'
+url_code: 'https://github.com/hammoudhasan/DiversitySSL'
 url_dataset: ''
 url_poster: ''
 url_project: ''
