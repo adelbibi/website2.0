@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Awards
+title: Awards and Recognition
 subtitle:
 
 content:

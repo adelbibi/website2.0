@@ -28,7 +28,7 @@ main:
   #     - name: Recent Publications
   #       url: '#publications'
   #       weight: 2
-  - name: Awards
+  - name: Awards & Recognition
     url: '#posts'
     weight: 40
   - name: Featured Publications
