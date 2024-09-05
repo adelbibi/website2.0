@@ -99,4 +99,4 @@ Currently, Bibi is leading a group in Oxford focusing on the intersection betwee
 <!-- <span style="color:red"> [**Hiring!**] </span> <u> We are always looking for strong prospective PhD students interested in the areas of robustness and continual learning. Contact me if you are interested.</u> -->
 <span style="color:red"> [**Note!**] </span>  <i>I am always looking for strong self-motivated PhD students. If you are interested in Trustworthy Foundation Models that Continually Learn, reach out! </i>
 
-<span style="color:red"> [**Consulting Expertise**] </span>  <i> I have consulted in the past on projects spanning core machine learning and data science, computer vision, certification and AI safety, optimization formulations for matching and resource allocation problems, among other areas."</i>
+<span style="color:red"> [**Consulting Expertise**] </span>  <i> I have consulted in the past on projects spanning core machine learning and data science, computer vision, certification and AI safety, optimization formulations for matching and resource allocation problems, among other areas.</i>
