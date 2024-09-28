@@ -57,7 +57,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2407.08822'
 url_code: 'https://github.com/m1k2zoo/FedMedICL'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1TXOwmuCPrFRupqclvVhx9Fi9jHOmciRz/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
