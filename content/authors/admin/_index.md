@@ -6,14 +6,16 @@ title: Adel Bibi
 superuser: true
 
 # Role/position/tagline
-role: Senior Researcher in Machine Learning
+role: Senior Researcher in Machine Learning and R&D Distinguished Advisor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Oxford
+- name: University of Oxford, Kellogg College
   url: "https://www.ox.ac.uk/"
-- name: Kellogg College
-  url: "https://www.kellogg.ox.ac.uk/our-people/adel-bibi/"
+# - name: Kellogg College
+#   url: "https://www.kellogg.ox.ac.uk/our-people/adel-bibi/"
+- name: Softserve
+  url: "https://www.softserveinc.com/en-us"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, computer vision, and optimization.
@@ -80,7 +82,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Adel Bibi is a senior researcher in machine learning and computer vision at the [Department of Engineering Science](https://eng.ox.ac.uk/people/adel-bibi/) of the [University of Oxford](https://www.ox.ac.uk/), a Research Fellow (JRF) at [Kellogg College](https://www.kellogg.ox.ac.uk), and a member of the [ELLIS](https://ellis.eu/) Society. Previously, Bibi was a senior research associate and a postdoctoral researcher with [Philip H.S. Torr](https://www.robots.ox.ac.uk/~phst/) since October 2020. He received his MSc and PhD degrees from King Abdullah University of Science & Technology (KAUST) in 2016 and 2020, respectively, advised by [Bernard Ghanem](http://bernardghanem.com/). Bibi was awarded an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced) in 2022 in the Machine Learning Algorithms and Theory track. Bibi received <span><strong><em>four best paper awards;</em></strong></span> a [NeurIPS23 workshop](/post/prefix_tuning_bes_paper/), an [ICML23 workshop](/post/pinss_paper/), a [2022 CVPR workshop](/post/best_extended_abstract_cvpr22), and one at the [Optimization and Big Data Conference in 2018](/post/big_data_optimization_kaust/). His contributions include over 30 papers published in top machine learning and computer vision conferences. He also received <span><strong><em>four outstanding reviewer awards</em></strong></span> (CVPR18, CVPR19, ICCV19, ICLR22) and a [Notable Area Chair Award in NeurIPS23](/post/notable_ac_neurips23/).
+Adel Bibi is a senior researcher in machine learning and computer vision at the [Department of Engineering Science](https://eng.ox.ac.uk/people/adel-bibi/) of the [University of Oxford](https://www.ox.ac.uk/), a Research Fellow (JRF) at [Kellogg College](https://www.kellogg.ox.ac.uk), and a member of the [ELLIS](https://ellis.eu/) Society. Adel is an R&D Distinguished Advisor with [Softserve](https://www.softserveinc.com/en-us). Previously, Bibi was a senior research associate and a postdoctoral researcher with [Philip H.S. Torr](https://www.robots.ox.ac.uk/~phst/) since October 2020. He received his MSc and PhD degrees from King Abdullah University of Science & Technology (KAUST) in 2016 and 2020, respectively, advised by [Bernard Ghanem](http://bernardghanem.com/). Bibi was awarded an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced) in 2022 in the Machine Learning Algorithms and Theory track. Bibi received <span><strong><em>four best paper awards;</em></strong></span> a [NeurIPS23 workshop](/post/prefix_tuning_bes_paper/), an [ICML23 workshop](/post/pinss_paper/), a [2022 CVPR workshop](/post/best_extended_abstract_cvpr22), and one at the [Optimization and Big Data Conference in 2018](/post/big_data_optimization_kaust/). His contributions include over 30 papers published in top machine learning and computer vision conferences. He also received <span><strong><em>four outstanding reviewer awards</em></strong></span> (CVPR18, CVPR19, ICCV19, ICLR22) and a [Notable Area Chair Award in NeurIPS23](/post/notable_ac_neurips23/).
 <!-- , and has served as an Area Chair for NeurIPS23, AAAI23, AAAI24, and IJCAI23. -->
 
 
