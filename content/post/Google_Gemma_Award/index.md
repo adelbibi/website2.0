@@ -3,7 +3,7 @@ title: Google Gemma 2 Academic Award 2024
 subtitle: I received the Google Gemma 2 Academic Program GCP Credit Award!
 
 # Summary for listings and search engines
-summary: I received the Google Gemma 2 Academic Program GCP Credit Award ($10,000) for my project on certifying the generatic content in Large Language Models.
+summary: I received the Google Gemma 2 Academic Program GCP Credit Award ($10,000) for my project on certifying the output of Large Language Models.
 
 # Link this post with a project
 projects: []
