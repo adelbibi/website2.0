@@ -46,6 +46,26 @@ title:
 </div> <!-- Closing container -->
 
 
+<div class="container"> <!-- Main container for the section (Postdocs)-->
+  <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
+    <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
+      <h1>Postdoctoral Researchers</h1>
+    </div>
+    <!-- Alasdair Paren -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/alasdair-paren.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://alasdair-p.github.io/Alasdair-P/">Alasdair Paren</a></h2>
+        <h3>Postdoctoral Researcher, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+  </div> <!-- Closing row -->
+</div> <!-- Closing container -->
+
+
+
+
 
 <div class="container"> <!-- Main container for the section (Graduated PhD Students) -->
   <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
@@ -140,20 +160,20 @@ title:
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>
-      <!-- Preetham Arvind -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/preetham-arvind.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/preetham-arvind/">Preetham Arvind</a></h2>
-        <h3>MSc, University of Oxford</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
   <!-- Luca Furtuna -->
     <div class="col-12 col-sm-auto people-person">
       <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/luca-furtuna.jpeg" alt="Avatar">
       <div class="portrait-title">
         <h2><a href="https://www.linkedin.com/in/luca-furtuna-5507b2279/">Luca Furtuna</a></h2>
+        <h3>MSc, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Preetham Arvind -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/preetham-arvind.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/preetham-arvind/">Preetham Arvind</a></h2>
         <h3>MSc, University of Oxford</h3>
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
