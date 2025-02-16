@@ -16,6 +16,25 @@ weight: 20
 title:  
 ---
 
+<div class="container"> <!-- Main container for the section (Postdocs)-->
+  <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
+    <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
+      <h1>Postdoctoral Researchers</h1>
+    </div>
+    <!-- Alasdair Paren -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/alasdair-paren.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://alasdair-p.github.io/Alasdair-P/">Alasdair Paren</a></h2>
+        <h3>Postdoctoral Researcher, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+  </div> <!-- Closing row -->
+</div> <!-- Closing container -->
+
+
+
 
 <div class="container"> <!-- Main container for the section (PhD Students)-->
   <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
@@ -45,23 +64,6 @@ title:
   </div> <!-- Closing row -->
 </div> <!-- Closing container -->
 
-
-<div class="container"> <!-- Main container for the section (Postdocs)-->
-  <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
-    <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
-      <h1>Postdoctoral Researchers</h1>
-    </div>
-    <!-- Alasdair Paren -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/alasdair-paren.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://alasdair-p.github.io/Alasdair-P/">Alasdair Paren</a></h2>
-        <h3>Postdoctoral Researcher, University of Oxford</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-  </div> <!-- Closing row -->
-</div> <!-- Closing container -->
 
 
 
