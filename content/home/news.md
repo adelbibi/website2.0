@@ -10,7 +10,7 @@ weight: 20
 
 title: News
 ---
-* [**February 11th, 2025**]: **Four papers** accepted to ICML 2025 one paper of which as spotlight.
+* [**February 11th, 2025**]: **Four papers** accepted to ICLR 2025; one paper of which as spotlight.
 * [**September 25th, 2024**]: **Five papers** accepted to NeurIPS 2024.
 * [**September 20th, 2024**]: I received the Google Gemma 2 Academic Program GCP Credit Award ($10,000).
 * [**August 18th, 2024**]: I joined [Softserve](https://www.linkedin.com/feed/update/urn:li:activity:7238836535054225408/) as an R&D Distinguished Advisor.
