@@ -35,7 +35,6 @@ title:
 
 
 
-
 <div class="container"> <!-- Main container for the section (PhD Students)-->
   <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
     <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
