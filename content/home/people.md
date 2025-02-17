@@ -109,7 +109,7 @@ title:
       <div class="portrait-title">
         <h2><a href="https://motasemalfarra.netlify.app/">Motasem Alfarra</a></h2>
         <h3>PhD, KAUST</h3>
-        <h3>Departed to a <a href="https://www.qualcomm.com/research/artificial-intelligence">Qualcomm AI Research</a></h3>
+        <h3>Departed to <a href="https://www.qualcomm.com/research/artificial-intelligence">Qualcomm AI Research</a></h3>
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>
