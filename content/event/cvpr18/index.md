@@ -19,7 +19,7 @@ abstract: The outstanding performance of deep neural networks (DNNs), for the vi
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-06-18'
 date_end: '2018-06-22'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01'

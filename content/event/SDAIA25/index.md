@@ -1,10 +1,11 @@
 ---
-title: Analyzing a Block of Layers in Deep Neural Networks
+title: AI Governance
 
-event: Googel AI
+
+event: SDAIA; Saudi Data and AI Authority
 event_url: 
 
-location: Zurich, Switzerland
+location: Online
 # address:
 #   street: 
 #   city: 
@@ -12,15 +13,14 @@ location: Zurich, Switzerland
 #   postcode:
 #   country: 
 
-summary: 
+summary: Closed government session
 abstract: 
-
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-12-02'
-date_end: '2019-12-02'
-all_day: true
+date: '2025-01-26'
+date_end: '2025-01-26'
+all_day: ture
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -42,7 +42,7 @@ links:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://drive.google.com/file/d/1XE9oqlz6crj9oGZYinSSogu-vpmBF0OU/view?usp=sharing"
+url_slides: ""
 url_video: ""
 
 # # Markdown Slides (optional).

@@ -19,7 +19,7 @@ abstract: We revisit the LASSO sparse representation problem, which has been stu
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-07-26'
 date_end: '2016-07-27'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'

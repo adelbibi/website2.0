@@ -20,7 +20,7 @@ abstract: In this talk, I walk you through adversarial robustness research start
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-01-30'
 date_end: '2022-07-31'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'

@@ -19,7 +19,7 @@ abstract: Most correlation filter (CF) based trackers utilize the circulant stru
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2016-10-01T13:00:00Z'
 date_end: '2016-10-02T13:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'

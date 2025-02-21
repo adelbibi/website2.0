@@ -19,7 +19,7 @@ abstract: I present a new view to the output activations of a block of layers in
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2019-07-07'
 date_end: '2019-07-09'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01'

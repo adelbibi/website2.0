@@ -20,7 +20,7 @@ abstract: Tiny episodic memory is often motivated by cost requirements and priva
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-06-18'
 date_end: '2023-06-18'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ''
