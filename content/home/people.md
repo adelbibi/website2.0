@@ -68,6 +68,50 @@ title:
 
 
 
+<div class="container"> <!-- Main container for the section (MSc Students)-->
+  <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
+    <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
+      <h1>MSc Students</h1>
+    </div>
+    <!-- Thierry Blankenstein -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/thierry-blankenstein.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <!-- Commented-out name -->
+        <!-- <h2>Thierry Blankenstein</h2> -->
+        <h2><a href="https://www.linkedin.com/in/thierry-blankenstein/">Thierry Blankenstein</a></h2>
+        <h3>MSc Student, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Jonathan Sneth  -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/jonathan-sneth.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/jonathan-sneh/">Jonathan Sneth</a></h2>
+        <h3>MSc Student, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Akshat Naik -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/akshat-naik.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <!-- Commented-out name -->
+        <!-- <h2>Thierry Blankenstein</h2> -->
+        <h2><a href="https://www.linkedin.com/in/aksh-n/?originalSubdomain=ca">Akshat Naik
+</a></h2>
+        <h3>MSc Student, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+  </div> <!-- Closing row -->
+</div> <!-- Closing container -->
+
+
+
+
+
 <div class="container"> <!-- Main container for the section (Graduated PhD Students) -->
   <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
     <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
