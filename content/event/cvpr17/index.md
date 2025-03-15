@@ -1,5 +1,5 @@
 ---
-title: FFTLasso; Large-Scale LASSO in the Fourier Domain
+title: "FFTLasso: Large-Scale LASSO in the Fourier Domain"
 
 event: Conference on Computer Vision and Pattern Recognition (CVPR17)
 event_url: https://cvpr2017.thecvf.com/

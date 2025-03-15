@@ -1,5 +1,5 @@
 ---
-title: AI Agents at Work; From QA to Beyond
+title: "AI Agents at Work: From QA to Beyond"
 
 
 event: Softserve

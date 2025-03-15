@@ -1,5 +1,5 @@
 ---
-title: The Uncomfortable Reality; The Need for Budgeted Computation in Continual Learning
+title: "The Uncomfortable Reality: The Need for Budgeted Computation in Continual Learning"
 
 event: 4th CLVision Workhsop, CVPR23
 event_url: 
