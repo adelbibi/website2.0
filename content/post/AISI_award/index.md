@@ -1,9 +1,9 @@
 ---
 title: Systemic AI Safety Award
-subtitle: I was awarded the Systemic AI Safety Grant (~$250,000) for my work on Safe OS Agents
+subtitle: I was awarded the Systemic AI Safety Grant (~$250,000) for our work on Safe OS Agents
 
 # Summary for listings and search engines
-summary: I received the Systemic AI Safety Grant (~$250,000) for my work on Safe OS Agents
+summary: I received the Systemic AI Safety Grant (~$250,000) for our work on Safe OS Agents
 
 # Link this post with a project
 projects: []

@@ -52,7 +52,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2408.15313'
-url_code: ''
+url_code: 'https://github.com/wx-zhang/bfpo'
 url_dataset: ''
 url_poster: ''
 url_project: ''

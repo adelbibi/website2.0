@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**May 1st, 2025**]: One paper accepted to ICML 2025.
 * [**April 3rd, 2025**]: I was awarded the [Systemic AI Safety grant](https://www.aisi.gov.uk/work/strengthening-ai-resilience) (~$250,000) by the UK AI Security Institute. This was awarded to 20 applicants of a 451 (~4% acceptance rate).
 * [**February 11th, 2025**]: **Four papers** accepted to ICLR 2025; one paper of which as spotlight.
 * [**September 25th, 2024**]: **Five papers** accepted to NeurIPS 2024.
