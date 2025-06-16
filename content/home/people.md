@@ -84,11 +84,11 @@ title:
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>
-    <!-- Jonathan Sneth  -->
+    <!-- Jonathan Sneh  -->
     <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/jonathan-sneth.jpeg" alt="Avatar">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/jonathan-sneh.jpeg" alt="Avatar">
       <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/jonathan-sneh/">Jonathan Sneth</a></h2>
+        <h2><a href="https://www.linkedin.com/in/jonathan-sneh/">Jonathan Sneh</a></h2>
         <h3>MSc Student, University of Oxford</h3>
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>

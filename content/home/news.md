@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**June 10th, 2025**]: Our recent work on [hijacking AI agents](https://lnkd.in/eFZ5JGK9) and creating an AI worm was featured on YouTube by [Sabine Hossenfelder](https://www.youtube.com/watch?v=KY7_ufxh_Rk), a channel with over 1.7 million subscribers. More importantly, one that I watch frequently. 
 * [**May 1st, 2025**]: One paper accepted to ICML 2025.
 * [**April 3rd, 2025**]: I was awarded the [Systemic AI Safety grant](https://www.aisi.gov.uk/work/strengthening-ai-resilience) (~$250,000) by the UK AI Security Institute. This was awarded to 20 applicants of a 451 (~4% acceptance rate).
 * [**February 11th, 2025**]: **Four papers** accepted to ICLR 2025; one paper of which as spotlight.
