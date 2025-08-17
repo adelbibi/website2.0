@@ -1,5 +1,5 @@
 ---
-title: AI Safety Research
+title:  "TAHAKOM: AI Safety Research"
 
 
 event: Tahakom

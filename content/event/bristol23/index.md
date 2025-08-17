@@ -1,5 +1,5 @@
 ---
-title: Offline/Online Computationally Budgeted Continual Learning
+title: "Bristol University: Offline/Online Computationally Budgeted Continual Learning"
 
 
 event: Bristol

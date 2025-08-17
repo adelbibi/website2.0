@@ -1,5 +1,5 @@
 ---
-title: AI Safety Research
+title:  "HBKU: AI Safety Research"
 
 
 event: Hamad Bin Khalifa University (HBKU)

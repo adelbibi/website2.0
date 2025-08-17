@@ -1,5 +1,5 @@
 ---
-title:  A Basket of Computer Vision Research Problems
+title:  "PRIS: A Basket of Computer Vision Research Problems"
 
 event: Phi's Research and Innovation Summit (PRIS)
 event_url: https://m.facebook.com/PhiSummit/photos/?tab=albums

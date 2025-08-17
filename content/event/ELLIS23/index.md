@@ -1,5 +1,5 @@
 ---
-title: Trustworthy AI
+title: "ELLIS: Trustworthy AI"
 
 
 event: ELLIS Mathematics of Deep Learning

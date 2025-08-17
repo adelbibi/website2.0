@@ -1,5 +1,5 @@
 ---
-title: AI Safety Research
+title: "MBZUAI: AI Safety Research"
 
 
 event: Mohammed Bin Zayed university of AI (MBZUAI)

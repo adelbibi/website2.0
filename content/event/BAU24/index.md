@@ -1,5 +1,5 @@
 ---
-title: AI Safety Research
+title: "BAU: AI Safety Research"
 
 
 event: Beirut Arab University (BAU)

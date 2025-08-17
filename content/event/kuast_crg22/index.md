@@ -1,5 +1,5 @@
 ---
-title: CRG Talks -- Challenges in Offline and Online Continual Learning
+title: "KAUST: CRG Talks -- Challenges in Offline and Online Continual Learning"
 
 
 event: KAUST

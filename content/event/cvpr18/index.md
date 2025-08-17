@@ -1,5 +1,5 @@
 ---
-title: Analytic Expressions for Probabilistic Moments of PL-DNN With Gaussian Input
+title: "CVPR18: Analytic Expressions for Probabilistic Moments of PL-DNN With Gaussian Input"
 
 event: Conference on Computer Vision and Pattern Recognition (CVPR18)
 event_url: https://cvpr2018.thecvf.com/

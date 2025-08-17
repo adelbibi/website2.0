@@ -1,5 +1,5 @@
 ---
-title: High Order Tensor Formulation for Convolutional Sparse Coding
+title: "KAUST OBD: High Order Tensor Formulation for Convolutional Sparse Coding"
 
 event: Optimziation and Big Data Conference
 event_url: https://obd.kaust.edu.sa/

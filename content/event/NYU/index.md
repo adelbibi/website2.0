@@ -1,5 +1,5 @@
 ---
-title: Technical AI Safety Research
+title: "NYU: Technical AI Safety Research"
 
 
 event: NYU, Computer Science Department

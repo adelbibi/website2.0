@@ -1,5 +1,5 @@
 ---
-title: Analyzing a Block of Layers in Deep Neural Networks
+title: "Google: Analyzing a Block of Layers in Deep Neural Networks"
 
 event: Googel AI
 event_url: 

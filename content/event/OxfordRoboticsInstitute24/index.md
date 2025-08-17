@@ -1,5 +1,5 @@
 ---
-title: AI Safety Research
+title: "Oxford ORI: AI Safety Research"
 
 
 event: Oxford Robotics Institute (ORI)

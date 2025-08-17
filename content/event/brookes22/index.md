@@ -1,5 +1,5 @@
 ---
-title: Recent Advances in Randomized Smoothing
+title: "Oxford Brokkes: Recent Advances in Randomized Smoothing"
 
 event: Oxford Brookes University
 event_url: 

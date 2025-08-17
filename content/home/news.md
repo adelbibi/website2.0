@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**July 28th, 2025**]: My department, Engineering Science at Oxford University, has awarded me the [Excellence Award](https://drive.google.com/file/d/1-NutaG73KN6Uw5zr_DyhLEB4MnPzfpx1/view?usp=sharing) for outstanding performance throughout 2024/2025. This comes with a nice monetary gift.
 * [**June 10th, 2025**]: Our recent work on [hijacking AI agents](https://lnkd.in/eFZ5JGK9) and creating an AI worm was featured on YouTube by [Sabine Hossenfelder](https://www.youtube.com/watch?v=KY7_ufxh_Rk), a channel with over 1.7 million subscribers. More importantly, one that I watch frequently. 
 * [**May 1st, 2025**]: One paper accepted to ICML 2025.
 * [**April 3rd, 2025**]: I was awarded the [Systemic AI Safety grant](https://www.aisi.gov.uk/work/strengthening-ai-resilience) (~$250,000) by the UK AI Security Institute. This was awarded to 20 applicants of a 451 (~4% acceptance rate).

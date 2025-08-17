@@ -1,5 +1,5 @@
 ---
-title: Certifying Deep Neural Networks at Scale
+title: "ICMA: Certifying Deep Neural Networks at Scale"
 
 
 event: International Conference on Mathematics and Applications (ICMA'2023)

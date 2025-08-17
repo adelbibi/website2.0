@@ -1,5 +1,5 @@
 ---
-title: Offline and Online Computationally Budgeted Continual Learning 
+title: "CDT Oxford: Offline and Online Computationally Budgeted Continual Learning" 
 
 event: Oxford's Doctoral Training Centre
 event_url: 

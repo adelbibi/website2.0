@@ -1,5 +1,5 @@
 ---
-title: Generalized Certification Theory
+title: "KAUST: Generalized Certification Theory"
 
 
 event: KAUST

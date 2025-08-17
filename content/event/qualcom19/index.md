@@ -1,5 +1,5 @@
 ---
-title: Analyzing a Block of Layers in Deep Neural Networks
+title: "Qualcomm AI: Analyzing a Block of Layers in Deep Neural Networks"
 
 event: Qualcomm AI
 event_url: 

@@ -1,5 +1,5 @@
 ---
-title: Technical AI Safety Research
+title: "NYUAD: Technical AI Safety Research"
 
 
 event: NYU Abu Dhabi, Computer Science Department

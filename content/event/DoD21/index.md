@@ -1,5 +1,5 @@
 ---
-title: Trust Worthy AI -- Verified
+title: "DoD US: Trust Worthy AI -- Verified"
 
 event: US Department of Defense Artificial Intelligence Symposium
 event_url: https://www.ai.mil/ai2021.html

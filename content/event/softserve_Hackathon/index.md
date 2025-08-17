@@ -1,5 +1,5 @@
 ---
-title: "Foundations in AI Agents: Building & Prompting"
+title: "Softserve: Foundations in AI Agents: Building & Prompting"
 
 
 event: Softserve

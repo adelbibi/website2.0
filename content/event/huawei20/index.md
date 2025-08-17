@@ -1,5 +1,5 @@
 ---
-title: From Adversarial Robustness to Randomized Smoothing
+title: "Huawei: From Adversarial Robustness to Randomized Smoothing"
 
 event: Huawei Technologies Research and Development
 event_url: 

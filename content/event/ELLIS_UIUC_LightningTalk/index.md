@@ -1,5 +1,5 @@
 ---
-title: AI Safety Research
+title: "ELLIS: AI Safety Research"
 
 
 event: ELLIS Lightning Talk

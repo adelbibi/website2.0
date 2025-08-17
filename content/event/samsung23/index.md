@@ -1,5 +1,5 @@
 ---
-title: Computationally Budgeted Continual Learning
+title: "Samsung: Computationally Budgeted Continual Learning"
 
 
 event: Samsung AI Research

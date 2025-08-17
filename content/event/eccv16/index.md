@@ -1,5 +1,5 @@
 ---
-title: Target Response Adaptation for Correlation Filter Tracking
+title: "ECCV16: Target Response Adaptation for Correlation Filter Tracking"
 
 event: European Conference on Computer Vision (ECCV16)
 event_url: http://www.eccv2016.org/

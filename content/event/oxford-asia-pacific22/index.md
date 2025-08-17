@@ -1,5 +1,5 @@
 ---
-title: "Computer Vision and Machine Learning: Introduction, Applications, and Challenges"
+title: "Oxford Asia Pacific Society: Computer Vision and Machine Learning: Introduction, Applications, and Challenges"
 
 event: Oxford Asia-Pacific Society
 event_url: 

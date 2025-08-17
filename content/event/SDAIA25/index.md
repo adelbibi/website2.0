@@ -1,5 +1,5 @@
 ---
-title: AI Governance
+title: "SDAIA: AI Governance"
 
 
 event: SDAIA; Saudi Data and AI Authority

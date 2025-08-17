@@ -1,5 +1,5 @@
 ---
-title: "Deep Certification: From Empirical Robustness to Advances in Randomized Smoothing"
+title: "Raytheon: Deep Certification: From Empirical Robustness to Advances in Randomized Smoothing"
 
 
 event: Raytheon Technologies

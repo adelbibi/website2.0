@@ -1,5 +1,5 @@
 ---
-title:  Optimization Approach to a Block of Layers and Derivative Free Optimization
+title:  "ECCV19: Optimization Approach to a Block of Layers and Derivative Free Optimization"
 
 event: Eastern European Conference on Computer Vision (EECVC19)
 event_url: https://eecvc.com/speakers-2019/

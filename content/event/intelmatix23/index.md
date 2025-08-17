@@ -1,5 +1,5 @@
 ---
-title: Trustworthy Deep Learning
+title: "Intelmatix: Trustworthy Deep Learning"
 
 
 event: Intelmatix

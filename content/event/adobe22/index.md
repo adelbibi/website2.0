@@ -1,5 +1,5 @@
 ---
-title: Offline and Online Computationally Budgeted Continual Learning
+title: "Adobe: Offline and Online Computationally Budgeted Continual Learning"
 
 
 event: Adobe Research

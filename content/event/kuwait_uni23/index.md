@@ -1,5 +1,5 @@
 ---
-title: Trustworthy and Safe Deep Learning
+title: "Kuwait University: Trustworthy and Safe Deep Learning"
 
 
 event: Kuwait University

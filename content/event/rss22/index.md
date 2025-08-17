@@ -1,5 +1,5 @@
 ---
-title: From Recent Advances in Video Understanding to Blind Spots in Deep Networks
+title: "RSS: From Recent Advances in Video Understanding to Blind Spots in Deep Networks"
 
 
 event: Royal Scientific Society
