@@ -10,7 +10,7 @@ weight: 20
 
 title: News
 ---
-* [**September 4thth, 2025**]: Our new paper on [paper](https://arxiv.org/pdf/2503.10809)/[video](https://youtu.be/dA2Vp3xgvjs), about hijacking agentic systems and demonstrating AI worms has been featured by the [Scientific American](https://www.scientificamerican.com/article/hacking-ai-agents-how-malicious-images-and-pixel-manipulation-threaten/).
+* [**September 4thth, 2025**]: Our new work, [paper](https://arxiv.org/pdf/2503.10809)/[video](https://youtu.be/dA2Vp3xgvjs), about hijacking agentic systems and demonstrating AI worms has been featured by the [Scientific American](https://www.scientificamerican.com/article/hacking-ai-agents-how-malicious-images-and-pixel-manipulation-threaten/).
 * [**July 28th, 2025**]: My department, Engineering Science at Oxford University, has awarded me the [Excellence Award](https://drive.google.com/file/d/1-NutaG73KN6Uw5zr_DyhLEB4MnPzfpx1/view?usp=sharing) for outstanding performance throughout 2024/2025. This comes with a nice monetary gift.
 * [**June 10th, 2025**]: Our recent work on [hijacking AI agents](https://lnkd.in/eFZ5JGK9) and creating an AI worm was featured on YouTube by [Sabine Hossenfelder](https://www.youtube.com/watch?v=KY7_ufxh_Rk), a channel with over 1.7 million subscribers. More importantly, one that I watch frequently. 
 * [**May 1st, 2025**]: One paper accepted to ICML 2025.
