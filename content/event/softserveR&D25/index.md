@@ -1,8 +1,8 @@
 ---
-title: "Softserve: AI Agents at Work: From QA to Beyond"
+title: "Softserve: AI Agents at Work. From QA to Beyond"
 
 
-event: Softserve
+event: "Softserve"
 event_url: 
 
 location: Online

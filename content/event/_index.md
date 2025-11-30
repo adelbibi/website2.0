@@ -1,5 +1,5 @@
 ---
-title: Offline and Online Computationally Budgeted Continual Learning
+title: 
 
 
 event: Samsung AI Research
