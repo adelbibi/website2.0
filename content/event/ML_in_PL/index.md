@@ -1,5 +1,5 @@
 ---
-title: "Technical AI Safety & Security: From Alignment to Agentic Systems"
+title: "Technical AI Security & Safety: From Alignment to Agentic Systems"
 
 event: "ML in PL"
 event_url: 
