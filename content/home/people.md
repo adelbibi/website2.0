@@ -172,20 +172,7 @@ title:
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>
-    <!-- Motasem Alfarra -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/motasem-alfarra.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://motasemalfarra.netlify.app/">Motasem Alfarra</a></h2>
-        <h3>PhD, KAUST</h3>
-        <h3>Departed to <a href="https://www.qualcomm.com/research/artificial-intelligence">Qualcomm AI Research</a></h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-  </div> <!-- Closing row -->
-</div> <!-- Closing container -->
-
-
+    
 
 
 
@@ -291,43 +278,3 @@ title:
 
 
 
-
-<div class="container"> <!-- Main container for the section (Unofficially Supervised PhD Students) -->
-  <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
-    <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
-      <h1>Unofficially Supervised PhD Students</h1>
-    </div>
-    <!-- Wenxuan Zhang -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/wenxuan-zhang.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://scholar.google.com/citations?user=GzBuFCAAAAAJ&hl=en">Wenxuan Zhang</a></h2>
-        <h3>PhD student at KAUST</h3>
-      </div>
-    </div>
-     <!-- Hasan Hammoud -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/hasan-abed-alkader.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://hasanhammoud.com/">Hasan Hammoud</a></h2>
-        <h3>PhD student at KAUST</h3>
-      </div>
-    </div>
-    <!-- Yasir Ghunaim -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/yasir-ghunaim.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/yasir-ghunaim/?originalSubdomain=sa">Yasir Ghunaim</a></h2>
-        <h3>PhD Student at KAUST</h3>
-      </div>
-    </div>
-    <!-- Kumail Alhamoud -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/kumail-alhamoud.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://kumailalhamoud.netlify.app/">Kumail Alhamoud</a></h2>
-        <h3>PhD student at MIT</h3>
-      </div>
-    </div>
-  </div> <!-- Closing row -->
-</div> <!-- Closing container -->

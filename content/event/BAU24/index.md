@@ -13,7 +13,7 @@ location: Online
 #   postcode:
 #   country: 
 
-summary: This is a talk to the Hamad Bin Khalifa Unviersity (HBKU). An Invitation by Dr Lama Affara.
+summary: This is a talk to the Hamad Bin Khalifa University (HBKU). An Invitation by Dr Lama Affara.
 abstract: 
 
 # Talk start and end times.

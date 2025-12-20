@@ -37,11 +37,11 @@ education:
   - course: MSc in Electrical Engineering (4.0/4.0); Computer Vision Track
     institution: King Abdullah University of Science and Technology (KAUST)
     year: 2016
-    image: KuwaitUnviersity
+    image: KuwaitUniversity
   - course: BSc in Electrical Engineering (3.99/4.0)
     institution: Kuwait University
     year: 2014
-    image: KuwaitUnviersity
+    image: KuwaitUniversity
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -82,7 +82,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Adel Bibi is a senior researcher in machine learning and computer vision at the [Department of Engineering Science](https://eng.ox.ac.uk/people/adel-bibi/) of the [University of Oxford](https://www.ox.ac.uk/), a Research Fellow (JRF) at [Kellogg College](https://www.kellogg.ox.ac.uk), and a member of the [ELLIS](https://ellis.eu/) Society. Bibi is an R&D Distinguished Advisor with [Softserve](https://www.softserveinc.com/en-us). Previously, Bibi was a senior research associate and a postdoctoral researcher with [Philip H.S. Torr](https://www.robots.ox.ac.uk/~phst/) since October 2020. He received his MSc and PhD degrees from King Abdullah University of Science & Technology (KAUST) in 2016 and 2020, respectively, advised by [Bernard Ghanem](http://bernardghanem.com/). Bibi was awarded an [**Amazon Research Award**](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced) in 2022 in the Machine Learning Algorithms and Theory track, the **Google Gemma 2 Academic Award** in 2024, the [**Systemic AI Safety grant**](https://www.aisi.gov.uk/work/strengthening-ai-resilience) by the UK AI Security Institute in 2025, the Toyota Motor Europe Award 2025, and an OpenPhil 2025 grant. Bibi received <span><strong>four best paper awards;</strong></span> a [NeurIPS23 workshop](/post/prefix_tuning_bes_paper/), an [ICML23 workshop](/post/pinss_paper/), a [2022 CVPR workshop](/post/best_extended_abstract_cvpr22), and one at the [Optimization and Big Data Conference in 2018](/post/big_data_optimization_kaust/). His contributions include over 50 papers published in top machine learning and computer vision conferences. He also received <span><strong>four outstanding reviewer awards</strong></span> (CVPR18, CVPR19, ICCV19, ICLR22) and a [**Notable Area Chair Award in NeurIPS23**](/post/notable_ac_neurips23/).
+Adel Bibi is a senior researcher in machine learning and computer vision at the [Department of Engineering Science](https://eng.ox.ac.uk/people/adel-bibi/) of the [University of Oxford](https://www.ox.ac.uk/), a Research Fellow (JRF) at [Kellogg College](https://www.kellogg.ox.ac.uk), and a member of the [ELLIS](https://ellis.eu/) Society. Bibi is an R&D Distinguished Advisor with [Softserve](https://www.softserveinc.com/en-us). Previously, Bibi was a senior research associate and a postdoctoral researcher with [Philip H.S. Torr](https://www.robots.ox.ac.uk/~phst/) since October 2020. He received his MSc and PhD degrees from King Abdullah University of Science & Technology (KAUST) in 2016 and 2020, respectively, advised by [Bernard Ghanem](http://bernardghanem.com/). Bibi was awarded an [**Amazon Research Award**](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced) in 2022 in the Machine Learning Algorithms and Theory track, the **Google Gemma 2 Academic Award** in 2024, the [**Systemic AI Safety grant**](https://www.aisi.gov.uk/work/strengthening-ai-resilience) by the UK AI Security Institute in 2025, the Toyota Motor Europe Award 2025, and the Coefficient Giving award in 2025. Bibi received <span><strong>four best paper awards;</strong></span> a [NeurIPS23 workshop](/post/prefix_tuning_bes_paper/), an [ICML23 workshop](/post/pinss_paper/), a [2022 CVPR workshop](/post/best_extended_abstract_cvpr22), and one at the [Optimization and Big Data Conference in 2018](/post/big_data_optimization_kaust/). His contributions include over 50 papers published in top machine learning and computer vision conferences. He also received <span><strong>four outstanding reviewer awards</strong></span> (CVPR18, CVPR19, ICCV19, ICLR22) and a [**Notable Area Chair Award in NeurIPS23**](/post/notable_ac_neurips23/).
 <!-- , and has served as an Area Chair for NeurIPS23, AAAI23, AAAI24, and IJCAI23. -->
 
 

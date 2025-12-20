@@ -13,7 +13,7 @@ location: Doha, Qatar
 #   postcode:
 #   country: 
 
-summary: This is a talk at the ICT division of Hamad Bin Khalifa Unviersity (HBKU).
+summary: This is a talk at the ICT division of Hamad Bin Khalifa University (HBKU).
 abstract: 
 
 # Talk start and end times.

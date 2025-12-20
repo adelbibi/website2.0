@@ -44,7 +44,7 @@ categories:
 
 <!-- ## Overview -->
 
-I have received a highlightef reviewer award at ICLR 2022 and received a free conference registration. The award is granted to 8.7% of 6207.
+I have received a highlighted reviewer award at ICLR 2022 and received a free conference registration. The award is granted to 8.7% of 6207.
 
 Read more on: https://iclr.cc/Conferences/2022/Reviewers
 

@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**December 4th, 2025**]: **Awarded the Coefficient Giving Grant of ~ $260,000** to investigate transferable adversarial inputs capable of inducing malicious agent behaviour. 
 * [**November 4th, 2025**]: Our new [paper](https://arxiv.org/abs/2511.04703) in NeurIPS25 on evaluating progress in AI safety evaluations has been featured by **[The Guardian](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness)** and **[NBC News](https://www.nbcnews.com/tech/tech-news/ai-chatgpt-test-smart-capabilities-may-exaggerated-flawed-study-rcna241969)**.
 * [**November 3rd, 2025**]: Featured on Globo TV's "Digital Minds" segment — [watch on Globoplay](https://globoplay.globo.com/v/14064103/) for our work on AI Safety. Globo is the largest media group in Latin America.
 * [**September 18th, 2025**]: **Three Papers** accepted to NeurIPS25.
@@ -45,10 +46,10 @@ title: News
 </p>
 
 ***
-* [**December 16th, 2023**]: Our paper [When Do Prompting and Prefix-Tuing Work? A Theory of Capabilities and imitations](https://arxiv.org/abs/2310.19698) received the Entropic Paper Award at the NeurIPS 2023 Workshop: I Can’t Believe It’s Not Better (ICBINB): Failure Modes in the Age of Foundation Models.
+* [**December 16th, 2023**]: Our paper [When Do Prompting and Prefix-Tuning Work? A Theory of Capabilities and Limitations](https://arxiv.org/abs/2310.19698) received the Entropic Paper Award at the NeurIPS 2023 Workshop: I Can't Believe It's Not Better (ICBINB): Failure Modes in the Age of Foundation Models.
 * [**December 12th, 2023**]: Received a Notable Area Chair Award in NeurIPS23 (awarded to 8.1\% of 1223).
 * [**December 9th, 2023**]: One paper ([SimCS: Simulation for Domain Incremental Online Continual Segmentation](https://arxiv.org/abs/2211.16234)) accepted to AAAI24.
-* [**November 2nd, 2023**]: I gave two talks on trustwrothy AI to Kuwait University and Intematix, a startup based in Riyadh in Saudi Arabia.
+* [**November 2nd, 2023**]: I gave two talks on trustworthy AI to Kuwait University and Intematix, a startup based in Riyadh in Saudi Arabia.
 * [**September 21st, 2023**]: One paper on [Language Model Tokenizers Introduce Unfairness Between Languages](https://arxiv.org/abs/2305.15425) has been accepted to NeurIPS23.
 * [**September 5th, 2023**]: Invited by [Dima Damen](https://dimadamen.github.io/) to give a talk at Bristol University.
 * [**July 18th, 2023**]: One robustness [paper](https://arxiv.org/abs/2206.08242) is accepted to TMLR.
@@ -80,7 +81,7 @@ title: News
 * [**December 9th, 2022**]: I will serve as a **Senior Program Committee (Area Chair/Meta Reviewer)** for IJCAI 2023.
 * [**November 3rd, 2022**]: Joined the [ELLIS Society](https://ellis.eu/) as a member.
 * [**October 11th, 2022**]: One paper accepted to WACV23.
-* [**October 10th, 2022**]: Recieved an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced).
+* [**October 10th, 2022**]: Received an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced).
 * [**September 14th, 2022**]: Our paper [N-FGSM](https://arxiv.org/abs/2202.01181) accepted to NeurIPS22.
 * [**August 28th, 2022**]: Our paper [ANCER](https://openreview.net/forum?id=7j0GI6tPYi) was accepted in Transactions on Machine Learning Research (TMLR).
 * [**August 15th, 2022**]: Our paper on [Tropical Geometry](https://pubmed.ncbi.nlm.nih.gov/36001517/) was accepted to appear in the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
