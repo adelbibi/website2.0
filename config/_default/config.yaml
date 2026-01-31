@@ -45,7 +45,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest]
   # home: [HTML, RSS, JSON] # hugo mod clean; hugo mod tidy
   section: [HTML, RSS]
 imaging:

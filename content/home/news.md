@@ -10,7 +10,18 @@ weight: 20
 
 title: News
 ---
+* [**January 27th, 2026**]: **Two papers** accepted to ICLR 2026.
+
+***
+
+<p style="text-align: center;">
+<b> ~~ End of 2025 ~~ </b>
+</p>
+
+***
+
 * [**December 4th, 2025**]: **Awarded the Coefficient Giving Grant of ~ $260,000** to investigate transferable adversarial inputs capable of inducing malicious agent behaviour. 
+* [**December 3rd, 2025**]: Our NeurIPS 2023 [paper](https://aleksandarpetrov.github.io/tokenization-fairness/) on tokenization's impact on AI evaluation has been featured in the [Hugging Face Evaluation Guidebook](https://huggingface.co/spaces/OpenEvals/evaluation-guidebook#how-tokenization-can-mess-up-your-evaluation).
 * [**November 4th, 2025**]: Our new [paper](https://arxiv.org/abs/2511.04703) in NeurIPS25 on evaluating progress in AI safety evaluations has been featured by **[The Guardian](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness)** and **[NBC News](https://www.nbcnews.com/tech/tech-news/ai-chatgpt-test-smart-capabilities-may-exaggerated-flawed-study-rcna241969)**.
 * [**November 3rd, 2025**]: Featured on Globo TV's "Digital Minds" segment — [watch on Globoplay](https://globoplay.globo.com/v/14064103/) for our work on AI Safety. Globo is the largest media group in Latin America.
 * [**September 18th, 2025**]: **Three Papers** accepted to NeurIPS25.
