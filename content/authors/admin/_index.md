@@ -53,7 +53,7 @@ social:
   link: 'mailto:adel.bibi@eng.ox.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Q4j2laYAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=thcByJkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/adelbibi
