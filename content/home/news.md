@@ -10,6 +10,7 @@ weight: 20
 
 title: News
 ---
+* [**February 21st, 2026**]: **One paper** accepted to CVPR 2026.
 * [**January 27th, 2026**]: **Two papers** accepted to ICLR 2026.
 
 ***

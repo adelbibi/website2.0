@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: PhD Students
+  - name: Group in Oxford
     url: '#people'
     weight: 20
   - name: News

@@ -76,24 +76,40 @@ title:
 
 
 
-<template id="msc-students">
 <div class="container"> <!-- Main container for the section (MSc Students)-->
   <div class="row justify-content-center people-widget"> <!-- Row to hold all student profiles, centered -->
     <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
       <h1>MSc Students</h1>
     </div>
-    <!-- Jonathan Sneh  -->
+    <!-- Arshia Hemmat -->
     <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/jonathan-sneh.jpeg" alt="Avatar">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/arshia-hemmat.jpeg" alt="Avatar">
       <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/jonathan-sneh/">Jonathan Sneh</a></h2>
+        <h2><a href="https://www.linkedin.com/in/arshiahemmat/">Arshia Hemmat</a></h2>
+        <h3>MSc Student, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Aniruddh Pramod -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/aniruddh-pramod.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://linkedin.com/in/aniruddh-pramod?originalSubdomain=uk">Aniruddh Pramod</a></h2>
+        <h3>MSc Student, University of Oxford</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Maryna Horbach -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/maryna-horbach.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/horbachmp/">Maryna Horbach</a></h2>
         <h3>MSc Student, University of Oxford</h3>
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>
   </div> <!-- Closing row -->
 </div> <!-- Closing container -->
-</template>
 
 
 
@@ -181,74 +197,11 @@ title:
     <div class="col-md-12 section-heading"> <!-- Full-width heading for the section -->
       <h1>Graduated MSc Students</h1>
     </div>
-    <!-- Taras Rumezhak -->
-    <div class="col-12 col-sm-auto people-person"> <!-- Individual student profile -->
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/taras-rumezhak.jpeg" alt="Avatar">
-      <div class="portrait-title"> <!-- Container for name and title -->
-        <h2><a href="https://www.linkedin.com/in/trumezhak/">Taras Rumezhak</a></h2> <!-- Name with link -->
-        <h3>MSc, University of Oxford, 2023</h3> <!-- Student title -->
-        <ul class="network-icon" aria-hidden="true"></ul> <!-- Empty list for social links, not used -->
-      </div>
-    </div>
-    <!-- Tuhin Das -->
+    <!-- Sam Wang -->
     <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/tuhin-das.jpeg" alt="Avatar">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/sam-wang.jpeg" alt="Avatar">
       <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/das-tuhin/">Tuhin Das</a></h2>
-        <h3>MSc, University of Oxford, 2023</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-    <!-- Ion Orins -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/ion-orins.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/ionorins/">Ion Orins</a></h2>
-        <h3>MSc, University of Oxford, 2023</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-    <!-- Enbo lyu -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/enbo-lyu.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/enbo-lyu-864a72225/?originalSubdomain=uk">Enbo Lyu</a></h2>
-        <h3>MSc, University of Oxford, 2024</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-  <!-- Luca Furtuna -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/luca-furtuna.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/luca-furtuna-5507b2279/">Luca Furtuna</a></h2>
-        <h3>MSc, University of Oxford, 2024</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-    <!-- Preetham Arvind -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/preetham-arvind.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/preetham-arvind/">Preetham Arvind</a></h2>
-        <h3>MSc, University of Oxford, 2024</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-    <!-- Thierry Blankenstein -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/thierry-blankenstein.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/thierry-blankenstein/">Thierry Blankenstein</a></h2>
-        <h3>MSc, University of Oxford, 2025</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-    <!-- Akshat Naik -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/akshat-naik.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/aksh-n/?originalSubdomain=ca">Akshat Naik</a></h2>
+        <h2><a href="https://www.linkedin.com/in/sam-wang-79a696167/">Sam Wang</a></h2>
         <h3>MSc, University of Oxford, 2025</h3>
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
@@ -262,13 +215,76 @@ title:
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>
-    <!-- Sam Wang -->
+    <!-- Akshat Naik -->
     <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/sam-wang.jpeg" alt="Avatar">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/akshat-naik.jpeg" alt="Avatar">
       <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/sam-wang-79a696167/">Sam Wang</a></h2>
+        <h2><a href="https://www.linkedin.com/in/aksh-n/?originalSubdomain=ca">Akshat Naik</a></h2>
         <h3>MSc, University of Oxford, 2025</h3>
         <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Thierry Blankenstein -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/thierry-blankenstein.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/thierry-blankenstein/">Thierry Blankenstein</a></h2>
+        <h3>MSc, University of Oxford, 2025</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Preetham Arvind -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/preetham-arvind.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/preetham-arvind/">Preetham Arvind</a></h2>
+        <h3>MSc, University of Oxford, 2024</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+  <!-- Luca Furtuna -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/luca-furtuna.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/luca-furtuna-5507b2279/">Luca Furtuna</a></h2>
+        <h3>MSc, University of Oxford, 2024</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Enbo lyu -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/enbo-lyu.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/enbo-lyu-864a72225/?originalSubdomain=uk">Enbo Lyu</a></h2>
+        <h3>MSc, University of Oxford, 2024</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Ion Orins -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/ion-orins.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/ionorins/">Ion Orins</a></h2>
+        <h3>MSc, University of Oxford, 2023</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Tuhin Das -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/tuhin-das.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/das-tuhin/">Tuhin Das</a></h2>
+        <h3>MSc, University of Oxford, 2023</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Taras Rumezhak -->
+    <div class="col-12 col-sm-auto people-person"> <!-- Individual student profile -->
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/taras-rumezhak.jpeg" alt="Avatar">
+      <div class="portrait-title"> <!-- Container for name and title -->
+        <h2><a href="https://www.linkedin.com/in/trumezhak/">Taras Rumezhak</a></h2> <!-- Name with link -->
+        <h3>MSc, University of Oxford, 2023</h3> <!-- Student title -->
+        <ul class="network-icon" aria-hidden="true"></ul> <!-- Empty list for social links, not used -->
       </div>
     </div>
   </div> <!-- Closing row -->
