@@ -47,7 +47,7 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest]
   # home: [HTML, RSS, JSON] # hugo mod clean; hugo mod tidy
-  section: [HTML, RSS]
+  # section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
   quality: 75
