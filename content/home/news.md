@@ -12,6 +12,7 @@ title: News
 ---
 * [**February 21st, 2026**]: **One paper** accepted to CVPR 2026.
 * [**January 27th, 2026**]: **Two papers** accepted to ICLR 2026.
+* [**January 8th, 2026**]: Invited by the [Information Commissioner's Office (ICO)](https://ico.org.uk) to contribute a piece in their [Tech Futures: Agentic AI](https://ico.org.uk/about-the-ico/research-reports-impact-and-evaluation/research-and-reports/technology-and-innovation/tech-horizons-and-ico-tech-futures/ico-tech-futures-agentic-ai/) report.
 
 ***
 
