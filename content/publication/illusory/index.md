@@ -34,7 +34,7 @@ publishDate: "2023-01-21T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Learning Representations
+publication: International Conference on Learning Representations (**ICLR24**) [<span style="color:red">Spotlight</span>]
 publication_short: International Conference on Learning Representations (**ICLR24**) [<span style="color:red">Spotlight</span>]
 
 abstract: Autonomous agents deployed in the real world need to be robust against adversarial attacks on sensory inputs. Robustifying agent policies requires anticipating the strongest attacks possible. We demonstrate that existing observation-space attacks on reinforcement learning agents have a common weakness; while effective, their lack of information-theoretic detectability constraints makes them detectable using automated means or human inspection. Detectability is undesirable to adversaries as it may trigger security escalations. We introduce illusory attacks, a novel form of adversarial attack on sequential decision-makers that is both effective and of bounded statistical detectability. We propose a novel dual ascent algorithm to learn such attacks end-to-end. Compared to existing attacks, we empirically find illusory attacks to be significantly harder to detect with automated methods, and a small study with human subjects suggests they are similarly harder to detect for humans. Our findings suggest the need for better anomaly detectors, as well as effective hardware and system-level defenses.

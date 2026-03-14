@@ -24,7 +24,7 @@ publishDate: "2025-11-30T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Neural Information Processing Systems
+publication: Neural Information Processing Systems (**NeurIPS25**)
 publication_short: Neural Information Processing Systems (**NeurIPS25**)
 
 

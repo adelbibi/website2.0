@@ -21,8 +21,8 @@ title: News
 </p>
 
 ***
-* [**December 14th, 2025**]: Our [Agent Trust Simulation](https://agent-trust.camel-ai.org) project received the **Outstanding Paper Award** at the [1st Workshop on LLM Agents for Social Simulation (LASS) at CIKM 2025](https://lass-workshop.github.io/).
 * [**December 4th, 2025**]: **Awarded the Coefficient Giving Grant of ~ $260,000** to investigate transferable adversarial inputs capable of inducing malicious agent behaviour. 
+* [**DNovemberecember 14th, 2025**]: Our [Agent Trust Simulation](https://agent-trust.camel-ai.org) project received the **Outstanding Paper Award** at the [1st Workshop on LLM Agents for Social Simulation (LASS) at CIKM 2025](https://lass-workshop.github.io/).
 * [**December 3rd, 2025**]: Our NeurIPS 2023 [paper](https://aleksandarpetrov.github.io/tokenization-fairness/) on tokenization's impact on AI evaluation has been featured in the [Hugging Face Evaluation Guidebook](https://huggingface.co/spaces/OpenEvals/evaluation-guidebook#how-tokenization-can-mess-up-your-evaluation).
 * [**November 4th, 2025**]: Our new [paper](https://arxiv.org/abs/2511.04703) in NeurIPS25 on evaluating progress in AI safety evaluations has been featured by **[The Guardian](https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness)** and **[NBC News](https://www.nbcnews.com/tech/tech-news/ai-chatgpt-test-smart-capabilities-may-exaggerated-flawed-study-rcna241969)**.
 * [**November 3rd, 2025**]: Featured on Globo TV's "Digital Minds" segment — [watch on Globoplay](https://globoplay.globo.com/v/14064103/) for our work on AI Safety. Globo is the largest media group in Latin America.
