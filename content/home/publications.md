@@ -39,6 +39,4 @@ design:
   columns: '2'
 ---
 
-<!-- {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} -->
+<!-- Note: publication filtering callout removed to avoid missing shortcode template errors. -->

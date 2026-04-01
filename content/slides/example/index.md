@@ -135,6 +135,8 @@ Press the `S` key to view the speaker notes!
 
 Customize the slide style and background
 
+{{< /slide >}}
+
 ```markdown
 {{</* slide background-image="/media/boards.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
