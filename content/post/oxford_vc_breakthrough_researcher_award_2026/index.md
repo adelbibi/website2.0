@@ -1,5 +1,5 @@
 ---
-title: Oxford University Vice Chancellors Breakthrough Researcher Award
+title: Nominated for Oxford University Vice Chancellors Breakthrough Researcher Award
 subtitle: Recognizing early-career researchers who have made a significant impact at the University, for breakthrough research in Agentic AI Safety and Security.
 
 # Summary for listings and search engines
