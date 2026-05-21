@@ -291,6 +291,97 @@ title:
 </div> <!-- Closing container -->
 
 
+<div class="container"> <!-- Main container for the section (Visitors)-->
+  <div class="row justify-content-center people-widget">
+    <div class="col-md-12 section-heading">
+      <h1>Visitors</h1>
+    </div>
+    <!-- Carlos Hinojosa (Current) -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/carlos-hinojosa.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://carloshinojosa.me/">Carlos Hinojosa</a></h2>
+        <h3>Visitor, KAUST, May 2026 - Present</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Alisia Baielli (Current) -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/alisia-baielli.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/alisiasarabaielli/">Alisia Baielli</a></h2>
+        <h3>Visitor, University of Amsterdam, May 2026 - Present</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Ziyan Wang (Current) -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/ziyan-wang.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://ziyan-wang98.github.io/">Ziyan Wang</a></h2>
+        <h3>Visitor, King's College London, March 2026 - Present</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Kumail Alhamoud -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/kumail-alhamoud.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://kumailalhamoud.netlify.app/">Kumail Alhamoud</a></h2>
+        <h3>Visitor, MIT, May 2024 - September 2024</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Lama Alssum -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/lama-alssum.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/lama-alssum-b906b82b/">Lama Alssum</a></h2>
+        <h3>Visitor, KAUST, October 2024 - January 2025</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Hasan Abed Al Kader Hammoud -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/hasan-abed-alkader.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://hasanhammoud.com/">Hasan Abed Al Kader Hammoud</a></h2>
+        <h3>Visitor, KAUST, July 2023 - November 2023</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Wenxuan Zhang -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/wenxuan-zhang.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://wx-zhang.github.io/">Wenxuan Zhang</a></h2>
+        <h3>Visitor, July 2023 - November 2023</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Yasir Ghunaim -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/yasir-ghunaim.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/yasir-ghunaim/">Yasir Ghunaim</a></h2>
+        <h3>Visitor, KAUST, July 2023 - November 2023</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Motasem Alfarra -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/motasem-alfarra.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://motasemalfarra.netlify.app/">Motasem Alfarra</a></h2>
+        <h3>Visitor, KAUST, October 2021 - March 2022</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+  </div> <!-- Closing row -->
+</div> <!-- Closing container -->
+
+
+
 
 
 

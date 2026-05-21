@@ -10,7 +10,7 @@ weight: 20
 
 title: News
 ---
-* [**March 30th, 2026**]: **Oxford University Vice Chancellors Breakthrough Researcher Award**: Recognizing researchers at the early stages of their careers who have made a significant impact at the University. [Breakthrough Research in Agentic AI Safety and Security](https://hr.admin.ox.ac.uk/vice-chancellors-awards#collapse5703361). Developing safeguards to identify vulnerabilities in AI agents to prevent them from leaking sensitive information or assisting malicious actors.
+* [**March 30th, 2026**]: **Nominated for Oxford University Vice Chancellors Breakthrough Researcher Award**: Recognizing researchers at the early stages of their careers who have made a significant impact at the University. [Breakthrough Research in Agentic AI Safety and Security](https://hr.admin.ox.ac.uk/vice-chancellors-awards#collapse5703361). Developing safeguards to identify vulnerabilities in AI agents to prevent them from leaking sensitive information or assisting malicious actors.
 * [**February 21st, 2026**]: **One paper** accepted to CVPR 2026.
 * [**February 21st, 2026**]: **One paper** accepted to CVPR 2026.
 * [**January 27th, 2026**]: **Two papers** accepted to ICLR 2026.
