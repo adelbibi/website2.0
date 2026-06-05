@@ -1,0 +1,88 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<div class="col-12">
+  {{ with $page.Title }}<h1 style="margin-bottom:1.75rem;">{{ . | markdownify | emojify }}</h1>{{ end }}
+
+  <div style="display:flex; gap:3rem; align-items:flex-start;">
+
+    <!-- Education: ~33% width -->
+    {{ with $page.Params.education_institutions }}
+    <div style="flex:0 0 32%;">
+      <div class="section-subheading" style="margin-bottom:1.1rem;">Education</div>
+
+      {{ range . }}
+      {{ $logo := resources.Get (printf "media/icons/brands/%s" .logo_file) }}
+      <div style="display:flex; align-items:flex-start; margin-bottom:1.5rem;">
+        {{ if $logo }}
+        <div style="flex-shrink:0; width:58px; height:58px; margin-right:0.85rem;">
+          {{- with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end -}}
+          <img src="{{ $logo.RelPermalink }}" alt="{{ .name }}" loading="lazy"
+               style="width:58px;height:58px;object-fit:contain;border-radius:8px;background:#fff;padding:4px;box-shadow:0 1px 4px rgba(0,0,0,0.1);">
+          {{- with .url }}</a>{{ end -}}
+        </div>
+        {{ end }}
+        <div style="flex:1;min-width:0;">
+          <p style="font-weight:600;margin-bottom:0.35rem;font-size:0.95rem;line-height:1.35;">
+            {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener" style="color:inherit;">{{ end }}
+            {{ .name }}
+            {{ with .url }}</a>{{ end }}
+          </p>
+          {{ range .degrees }}
+          <div style="margin-bottom:0.3rem;">
+            <p style="margin-bottom:0.04rem;font-size:0.9rem;line-height:1.3;">{{ .degree }}{{ with .year }}, {{ . }}{{ end }}</p>
+            {{ with .track }}<p style="margin-bottom:0;font-size:0.82rem;color:var(--clr-muted,#888);">{{ . }}</p>{{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Appointments: remaining width, 2-column grid -->
+    {{ with $page.Params.appointment_institutions }}
+    <div style="flex:1; min-width:0;">
+      <div class="section-subheading" style="margin-bottom:1.1rem;">Appointments</div>
+
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:1.5rem 2rem;">
+        {{ range . }}
+        {{ $logo := resources.Get (printf "media/icons/brands/%s" .logo_file) }}
+        <div style="display:flex; align-items:flex-start;">
+          {{ if $logo }}
+          <div style="flex-shrink:0; width:58px; height:58px; margin-right:0.85rem;">
+            {{- with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end -}}
+            <img src="{{ $logo.RelPermalink }}" alt="{{ .name }}" loading="lazy"
+                 style="width:58px;height:58px;object-fit:contain;border-radius:8px;background:#fff;padding:4px;box-shadow:0 1px 4px rgba(0,0,0,0.1);">
+            {{- with .url }}</a>{{ end -}}
+          </div>
+          {{ end }}
+          <div style="flex:1;min-width:0;">
+            <p style="font-weight:600;margin-bottom:0.35rem;font-size:0.95rem;line-height:1.35;">
+              {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener" style="color:inherit;">{{ end }}
+              {{ .name }}
+              {{ with .url }}</a>{{ end }}
+            </p>
+            {{ range .roles }}
+            <div style="margin-bottom:0.5rem;">
+              <p style="margin-bottom:0.04rem;font-size:0.9rem;line-height:1.3;font-weight:500;">{{ .title }}</p>
+              <p style="margin-bottom:0.25rem;font-size:0.82rem;color:var(--clr-muted,#888);">{{ .date }}</p>
+              {{ with .bullets }}
+              <ul style="margin:0;padding-left:1rem;list-style:disc;">
+                {{ range . }}
+                <li style="font-size:0.82rem;line-height:1.4;color:var(--clr-muted,#666);margin-bottom:0.1rem;">{{ . }}</li>
+                {{ end }}
+              </ul>
+              {{ end }}
+            </div>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+    </div>
+    {{ end }}
+
+  </div>
+</div>

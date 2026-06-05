@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="8" fill="#6D1C36"/>
+  <text x="50" y="38" font-family="Georgia,serif" font-size="13" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.3">KELLOGG</text>
+  <line x1="15" y1="48" x2="85" y2="48" stroke="#c8a951" stroke-width="1"/>
+  <text x="50" y="62" font-family="Georgia,serif" font-size="9" fill="#f0d080" text-anchor="middle" letter-spacing="0.5">COLLEGE</text>
+  <text x="50" y="74" font-family="Georgia,serif" font-size="8" fill="#f0d080" text-anchor="middle">OXFORD</text>
+</svg>

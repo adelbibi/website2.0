@@ -1,56 +1,80 @@
 ---
 # An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
 # This file represents a page section.
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 55
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle:
+title: 'Grants & Funding'
+subtitle: 'Research grants and funding received'
 
 # Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  date_start: "2026-01-01"
+  description: "€582,101.25 (Call: HORIZON-CL4-2026-05) to work on AI safety and robustness."
+  organization: European Research Council (Horizon Europe)
+  organization_url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
+  title: Horizon Europe Grant
+  url: /post/horizon_europe_grant/
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2025-12-04"
+  description: "~$260,000 to investigate transferable adversarial inputs capable of inducing malicious agent behaviour."
+  organization: Coefficient
+  organization_url: https://www.coefficient.ai/
+  title: Coefficient Giving Grant
+  url: /post/coefficient_giving_grant/
+- certificate_url: https://www.aisi.gov.uk/work/strengthening-ai-resilience
+  date_end: ""
+  date_start: "2025-04-03"
+  description: "~$250,000 awarded to 20 recipients out of 451 applications (~4% acceptance rate), for work on Safe OS Agents."
+  organization: UK AI Security Institute (AISI)
+  organization_url: https://www.aisi.gov.uk/
+  title: Systemic AI Safety Grant
+  url: /post/aisi_award/
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-01-01"
+  description: "~$330,000 to work on agentic and multi-agent safety."
+  organization: Toyota Motor Europe
+  organization_url: https://www.toyota-europe.com/
+  title: Toyota Motor Europe Grant
+  url: /post/toyota_motor_europe_award_2025/
+- certificate_url: ""
+  date_end: ""
+  date_start: "2024-09-20"
+  description: "$10,000 GCP credits for research on certifying the output domain of Large Language Models."
+  organization: Google
+  organization_url: https://ai.google.dev/gemma
+  title: Google Gemma 2 Academic Award
+  url: /post/google_gemma_award/
+- certificate_url: https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced
+  date_end: ""
+  date_start: "2022-10-01"
+  description: "$20,000 AWS credits in the Machine Learning Algorithms and Theory track, for the project \"Randomized Smoothing; Future Directions and Extensions\"."
+  organization: Amazon
+  organization_url: https://www.amazon.science/research-awards
+  title: Amazon Research Award
+  url: /post/amazon_award/
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-11-09"
+  description: "$1,050,000 over 3 years for the project \"Robust Continual Learning at Scale\" (joint with Philip Torr, Bernard Ghanem, and Mohamed Elhoseiny)."
+  organization: King Abdullah University of Science and Technology (KAUST)
+  organization_url: https://www.kaust.edu.sa/
+  title: KAUST Competitive Research Grant
+  url: /post/kaustcrg_2022/
 
 design:
-  columns: '2' 
+  columns: '2'
 ---

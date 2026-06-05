@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Background
+    url: '#background'
+    weight: 17
   - name: Group in Oxford
     url: '#people'
     weight: 20
@@ -28,6 +31,9 @@ main:
   #     - name: Recent Publications
   #       url: '#publications'
   #       weight: 2
+  - name: Grants & Funding
+    url: '#accomplishments'
+    weight: 35
   - name: Awards & Recognition
     url: '#posts'
     weight: 40
