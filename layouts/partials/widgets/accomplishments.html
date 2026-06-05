@@ -19,12 +19,18 @@
     {{ $itemCertUrl := .certificate_url }}
     <div class="card experience course">
       <div class="card-body">
+        {{- $custom_image := .image -}}
         {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" (replace (lower $itemOrg) " " "_")) -}}
-        {{- if $svg_icon }}
+        {{- $has_icon := or $custom_image $svg_icon -}}
+        {{- if $has_icon }}
         <div class="d-flex align-content-start">
           <div class="mr-2 mb-2">
             {{- with $itemOrgUrl}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+            {{- if $custom_image -}}
+            <img src="{{ $custom_image }}" width="56px" height="56px" alt="{{$itemOrg | plainify}}" loading="lazy" style="object-fit:contain;">
+            {{- else -}}
             <img src="{{ $svg_icon.RelPermalink }}" width="56px" height="56px" alt="{{$itemOrg | plainify}}" loading="lazy">
+            {{- end -}}
             {{- with $itemOrgUrl}}</a>{{end -}}
           </div>
           <div>
@@ -53,7 +59,7 @@
               {{ end }}
             </div>
 
-        {{- if $svg_icon}}
+        {{- if $has_icon}}
           </div>
         </div>
         {{end}}

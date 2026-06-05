@@ -10,8 +10,8 @@ weight: 20
 
 title: News
 ---
+* [**April 30th, 2026**]: **One papers** accepted to ICML 2026.
 * [**March 30th, 2026**]: **Shortlisted for Oxford University Vice-Chancellor's Breakthrough Researcher Award**: Recognizing researchers at the early stages of their careers who have made a significant impact at the University. [Breakthrough Research in Agentic AI Safety and Security](https://hr.admin.ox.ac.uk/vice-chancellors-awards#collapse5703361). Developing safeguards to identify vulnerabilities in AI agents to prevent them from leaking sensitive information or assisting malicious actors.
-* [**February 21st, 2026**]: **One paper** accepted to CVPR 2026.
 * [**February 21st, 2026**]: **One paper** accepted to CVPR 2026.
 * [**January 27th, 2026**]: **Two papers** accepted to ICLR 2026.
 * [**January 8th, 2026**]: Invited by the [Information Commissioner's Office (ICO)](https://ico.org.uk) to contribute a piece in their [Tech Futures: Agentic AI](https://ico.org.uk/about-the-ico/research-reports-impact-and-evaluation/research-and-reports/technology-and-innovation/tech-horizons-and-ico-tech-futures/ico-tech-futures-agentic-ai/) report.
@@ -135,7 +135,7 @@ title: News
 * [**July 2nd, 2020**]: Gabor layers enhance robustness paper accepted to ECCV20 [arXiv](https://arxiv.org/abs/1912.05661).
 * [**June 30th, 2020**]: One paper is out on new expressions for the output moments of ReLU based networks with various new appliactions [arXiv](https://arxiv.org/abs/2006.11776).
 * [**June 24th, 2020**]: New paper with SOTA results, backed with theory, on training robust models through feature clustering [arXiv](https://arxiv.org/abs/2006.07682).
-* [**March 31st, 2020**]: I have sucessfully defended my [PhD thesis](https://drive.google.com/file/d/1khsCiZA_T2APi2TdHjTETgO19tLrpb_p/view?usp=sharing).
+* [**March 31st, 2020**]: I have sucessfully defended my [PhD thesis](https://drive.google.com/file/d/1tAmnlDn7aQTprW-AUwQ4gQf0lVrZMDdh/view?usp=sharing).
 
 ***
 
@@ -211,7 +211,7 @@ title: News
 * [**July 11, 2016**]: 1 spotlight paper accepted to [ECCV16](http://www.eccv2016.org/), Amsterdam, Netherlands.
 * [**June 26, 2016**]: Attended [CVPR16](http://cvpr2016.thecvf.com/), Las Vegas, USA. Two papers presented.</li>
 * [**May 13, 2016**]: ICCVW15 [code](https://github.com/adelbibi/Multi-Template-Scale-Adaptive-Kernelized-Correlation-Filters) is now avaliable online.
-* [**April 11, 2016**]: Successfully defended my [Master's Thesis](https://drive.google.com/file/d/1raad0IcEyHK91zZuMiObcuoVlzPy3ucj/view?usp=sharing).
+* [**April 11, 2016**]: Successfully defended my [Master's Thesis](https://drive.google.com/file/d/1BuZgLrnkdSpUkZME4E0yK6CbAYHfSSD1/view?usp=sharing).
 * [**March 2, 2016**]: 2 papers (1 spotlight) accepted to [CVPR16](http://cvpr2016.thecvf.com/), Las Vegas, USA.
 
 ***

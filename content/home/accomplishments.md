@@ -20,12 +20,21 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2026-01-01"
+  date_start: "2026-04-30"
   description: "€582,101.25 (Call: HORIZON-CL4-2026-05) to work on AI safety and robustness."
+  image: /media/logos/horizon_europe.png
   organization: European Research Council (Horizon Europe)
   organization_url: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
   title: Horizon Europe Grant
   url: /post/horizon_europe_grant/
+- certificate_url: ""
+  date_end: ""
+  date_start: "2026-04-01"
+  description: "Awarded $180K of a total of ~$960K to work on OS Agentic Security, in collaboration with Bernard Ghanem and Mohammed El Hoseiny from KAUST."
+  organization: King Abdullah University of Science and Technology (KAUST)
+  organization_url: https://www.kaust.edu.sa/
+  title: KAUST-CRG Grant
+  url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2025-12-04"
