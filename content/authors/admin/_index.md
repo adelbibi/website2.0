@@ -45,17 +45,17 @@ education:
 
 # Previous Appointments to show in About widget
 appointments:
-  - title: "Senior Researcher (G9)"
-    institution: "University of Oxford"
+  - title: "Senior Researcher"
+    institution: "Oxford"
     date: "Mar 2023 – Present"
-  - title: "Senior Research Associate (G8)"
-    institution: "University of Oxford"
+  - title: "Senior Research Associate"
+    institution: "Oxford"
     date: "Dec 2021 – Mar 2023"
-  - title: "Postdoctoral Research Assistant (G7)"
-    institution: "University of Oxford"
+  - title: "Postdoctoral Researcher"
+    institution: "Oxford"
     date: "Oct 2020 – Dec 2021"
-  - title: "Visiting PhD Intern"
-    institution: "Intel Labs, Munich"
+  - title: "PhD Intern"
+    institution: "Intel Labs"
     date: "Apr – Oct 2018"
 
 # Social/Academic Networking

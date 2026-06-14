@@ -89,5 +89,19 @@
       {{ $person_page.Content }}
     </div>
 
+    <script>
+      (function() {
+        const articleStyle = document.querySelector('.article-style');
+        if (articleStyle) {
+          const paragraphs = articleStyle.querySelectorAll('p');
+          paragraphs.forEach(p => {
+            if (p.textContent.includes('Published with') && p.textContent.includes('Wowchemy')) {
+              p.remove();
+            }
+          });
+        }
+      })();
+    </script>
+
   </div>
 </div>
