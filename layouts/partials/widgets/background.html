@@ -6,33 +6,36 @@
 
   <div style="display:flex; gap:2.5rem; align-items:flex-start;">
 
-    <!-- Education: ~30% width -->
+    <!-- Education: 50% width -->
     {{ with $page.Params.education_institutions }}
-    <div style="flex:0 0 28%;">
+    <div style="flex:1; min-width:0;">
       <div class="section-subheading" style="margin-bottom:0.75rem;">Education</div>
 
       {{ range . }}
       {{ $logo := resources.Get (printf "media/icons/brands/%s" .logo_file) }}
       <div style="display:flex; align-items:flex-start; margin-bottom:1rem;">
         {{ if $logo }}
-        <div style="flex-shrink:0; width:42px; height:42px; margin-right:0.65rem; margin-top:2px;">
+        <div style="flex-shrink:0; width:64px; height:64px; margin-right:0.65rem; margin-top:2px;">
           {{- with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end -}}
           <img src="{{ $logo.RelPermalink }}" alt="{{ .name }}" loading="lazy"
-               style="width:42px;height:42px;object-fit:contain;border-radius:6px;background:#fff;padding:3px;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+               style="width:64px;height:64px;object-fit:contain;border-radius:6px;background:#fff;padding:3px;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
           {{- with .url }}</a>{{ end -}}
         </div>
         {{ end }}
         <div style="flex:1;min-width:0;">
-          <p style="font-weight:600;margin-bottom:0.2rem;font-size:0.73rem;line-height:1.3;">
+          <p style="font-weight:600;margin-bottom:0.2rem;font-size:0.91rem;line-height:1.3;">
             {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener" style="color:inherit;">{{ end }}
             {{ .name }}
             {{ with .url }}</a>{{ end }}
           </p>
           {{ range .degrees }}
-          <div style="margin-bottom:0.2rem;">
-            <p style="margin-bottom:0.02rem;font-size:0.73rem;line-height:1.3;">{{ .degree }}{{ with .year }}, {{ . }}{{ end }}</p>
-            {{ with .track }}<p style="margin-bottom:0.02rem;font-size:0.67rem;color:var(--clr-muted,#888);">{{ . }}</p>{{ end }}
-            {{ with .thesis }}<p style="margin-bottom:0;font-size:0.67rem;font-style:italic;color:#c0392b;">Thesis: {{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener" style="color:#c0392b;">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</p>{{ end }}
+          <div class="education-degree-item" style="margin-bottom:0.2rem;">
+            <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; margin-bottom:0.08rem;">
+              <p style="margin-bottom:0;font-size:0.91rem;line-height:1.3;">{{ .degree }}</p>
+              {{ with .year }}<p style="margin-bottom:0;font-size:0.8rem;line-height:1.3;color:var(--clr-muted,#888);flex-shrink:0;">{{ . }}</p>{{ end }}
+            </div>
+            {{ with .track }}<p style="margin-bottom:0.02rem;font-size:0.7rem;color:var(--clr-muted,#888);padding-left:0.5rem;">{{ . }}</p>{{ end }}
+            {{ with .thesis }}<p style="margin-bottom:0;font-size:0.7rem;font-style:italic;color:#c0392b;padding-left:0.5rem;">Thesis: {{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener" style="color:#c0392b;">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</p>{{ end }}
           </div>
           {{ end }}
         </div>
@@ -41,40 +44,65 @@
     </div>
     {{ end }}
 
-    <!-- Appointments: remaining width, 2-column grid -->
+    <!-- Appointments: 50% width -->
     {{ with $page.Params.appointment_institutions }}
     <div style="flex:1; min-width:0;">
       <div class="section-subheading" style="margin-bottom:0.75rem;">Appointments</div>
 
-      <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem 1.75rem;">
+      <div style="display:flex; flex-direction:column; gap:1.2rem;">
         {{ range . }}
         {{ $logo := resources.Get (printf "media/icons/brands/%s" .logo_file) }}
-        <div style="display:flex; align-items:flex-start;">
+        {{ $numRoles := len .roles }}
+        <div class="appointment-institution" data-multi-role="{{ if gt $numRoles 1 }}true{{ else }}false{{ end }}" style="display:flex; align-items:flex-start;">
           {{ if $logo }}
-          <div style="flex-shrink:0; width:42px; height:42px; margin-right:0.65rem; margin-top:2px;">
+          <div style="flex-shrink:0; width:56px; height:56px; margin-right:0.65rem; margin-top:2px;">
             {{- with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end -}}
             <img src="{{ $logo.RelPermalink }}" alt="{{ .name }}" loading="lazy"
-                 style="width:42px;height:42px;object-fit:contain;border-radius:6px;background:#fff;padding:3px;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+                 style="width:56px;height:56px;object-fit:contain;border-radius:6px;background:#fff;padding:3px;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
             {{- with .url }}</a>{{ end -}}
           </div>
           {{ end }}
           <div style="flex:1;min-width:0;">
-            <p style="font-weight:600;margin-bottom:0.15rem;font-size:0.73rem;line-height:1.3;">
+            <p style="font-weight:600;margin-bottom:0.15rem;font-size:1.0rem;line-height:1.3;">
               {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener" style="color:inherit;">{{ end }}
               {{ .name }}
               {{ with .url }}</a>{{ end }}
             </p>
+            {{ if gt $numRoles 1 }}
+            <div class="appointment-roles-timeline">
             {{ range .roles }}
-            <div style="margin-bottom:0.35rem;">
-              <p style="margin-bottom:0.02rem;font-size:0.74rem;line-height:1.3;font-weight:500;">{{ .title }}</p>
-              <p style="margin-bottom:0.15rem;font-size:0.67rem;color:var(--clr-muted,#888);">{{ .date }}</p>
+            <div class="appointment-role-item" style="margin-bottom:0.35rem;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; margin-bottom:0.15rem;">
+                <p style="margin-bottom:0;font-size:0.91rem;line-height:1.3;font-weight:500;">{{ .title }}</p>
+                <p style="margin-bottom:0;font-size:0.8rem;color:var(--clr-muted,#888);flex-shrink:0;">{{ .date }}</p>
+              </div>
               {{ with .bullets }}
-              <ul style="margin:0;padding-left:0.9rem;list-style:disc;">
+              <ul style="margin:0;padding-left:1.5rem;list-style:disc;">
                 {{ range . }}
-                <li style="font-size:0.7rem;line-height:1.4;color:var(--clr-muted,#666);margin-bottom:0.08rem;">{{ . | safeHTML }}</li>
+                <li style="font-size:0.73rem;line-height:1.4;color:var(--clr-muted,#666);margin-bottom:0.08rem;">{{ . | safeHTML }}</li>
                 {{ end }}
               </ul>
               {{ end }}
+            </div>
+            {{ end }}
+            </div>
+            {{ else }}
+            <div class="appointment-roles-single">
+            {{ range .roles }}
+            <div class="appointment-role-item" style="margin-bottom:0.35rem;">
+              <div style="display:flex; justify-content:space-between; align-items:baseline; gap:1rem; margin-bottom:0.15rem;">
+                <p style="margin-bottom:0;font-size:0.91rem;line-height:1.3;font-weight:500;">{{ .title }}</p>
+                <p style="margin-bottom:0;font-size:0.8rem;color:var(--clr-muted,#888);flex-shrink:0;">{{ .date }}</p>
+              </div>
+              {{ with .bullets }}
+              <ul style="margin:0;padding-left:1.5rem;list-style:disc;">
+                {{ range . }}
+                <li style="font-size:0.73rem;line-height:1.4;color:var(--clr-muted,#666);margin-bottom:0.08rem;">{{ . | safeHTML }}</li>
+                {{ end }}
+              </ul>
+              {{ end }}
+            </div>
+            {{ end }}
             </div>
             {{ end }}
           </div>

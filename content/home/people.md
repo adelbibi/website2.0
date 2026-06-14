@@ -296,30 +296,30 @@ title:
     <div class="col-md-12 section-heading">
       <h1>Visitors</h1>
     </div>
-    <!-- Carlos Hinojosa (Current) -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/carlos-hinojosa.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://carloshinojosa.me/">Carlos Hinojosa</a></h2>
-        <h3>Visitor, KAUST, May 2026 - Present</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
-    <!-- Alisia Baielli (Current) -->
-    <div class="col-12 col-sm-auto people-person">
-      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/alisia-baielli.jpeg" alt="Avatar">
-      <div class="portrait-title">
-        <h2><a href="https://www.linkedin.com/in/alisiasarabaielli/">Alisia Baielli</a></h2>
-        <h3>Visitor, University of Amsterdam, May 2026 - Present</h3>
-        <ul class="network-icon" aria-hidden="true"></ul>
-      </div>
-    </div>
     <!-- Ziyan Wang (Current) -->
     <div class="col-12 col-sm-auto people-person">
       <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/ziyan-wang.jpeg" alt="Avatar">
       <div class="portrait-title">
         <h2><a href="https://ziyan-wang98.github.io/">Ziyan Wang</a></h2>
         <h3>Visitor, King's College London, March 2026 - Present</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Carlos Hinojosa -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/carlos-hinojosa.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://carloshinojosa.me/">Carlos Hinojosa</a></h2>
+        <h3>Visitor, KAUST, May 2026</h3>
+        <ul class="network-icon" aria-hidden="true"></ul>
+      </div>
+    </div>
+    <!-- Alisia Baielli -->
+    <div class="col-12 col-sm-auto people-person">
+      <img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="pictures/alisia-baielli.jpeg" alt="Avatar">
+      <div class="portrait-title">
+        <h2><a href="https://www.linkedin.com/in/alisiasarabaielli/">Alisia Baielli</a></h2>
+        <h3>Visitor, University of Amsterdam, May 2026</h3>
         <ul class="network-icon" aria-hidden="true"></ul>
       </div>
     </div>
